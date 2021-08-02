@@ -4,7 +4,7 @@ I'm Chris, a web developer from Ontario, Canada. I'm a self-taught developer pur
 I kick-started my coding journey with freeCodeCamp and claimed five of their certifications.  I currently working on personal projects in JavaScript, particulary React. I love the web platform and I'm excited by the powerful frameworks and technolgies which I can build amazing sites on. When I get down to coding, I enjoy the satisfaction of creating complex interaction and the eye candy of adding styles to my HTML. What I don't like is spending time setting up projects and trying to fix poorly developed layout.
 
 - 💬 Ask me about putting your visual design into code. I enjoy CSS, but design isn't my strength, so I'd love to implement your amazing design.
-- 📫 Reach me on: [Twitter](https://twitter.com/Christo28120856), [Linkedin](https://www.linkedin.com/in/christopher-stevers-07b9a5204/)
+- 📫 Reach me on: [Twitter](https://twitter.com/Christo28120856), [Linkedin](https://www.linkedin.com/in/christopher-stevers-07b9a5204/).
 <!--
 **Christopher-Stevers/Christopher-Stevers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
