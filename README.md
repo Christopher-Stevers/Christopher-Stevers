@@ -7,6 +7,7 @@ When I get down to coding, I enjoy the satisfaction of creating complex interact
 
 - 💬 Ask me about putting your visual design into code. I enjoy CSS, but design isn't my strength, so I'd love to implement your amazing design.
 - 📫 Reach me on: [Twitter](https://twitter.com/Christo28120856), [Linkedin](https://www.linkedin.com/in/christopher-stevers-07b9a5204/).
+- ⌨ Check out my blog: [Scribo](https://christopherstevers.cf).
 <!--
 **Christopher-Stevers/Christopher-Stevers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
