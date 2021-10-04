@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56199](https://github.com/Automattic/wp-calypso/issues/56199) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-2. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
+1. ❗️ Closed issue [#3](https://github.com/Christopher-Stevers/Scribo/issues/3) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+2. 🗣 Commented on [#56199](https://github.com/Automattic/wp-calypso/issues/56199) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 3. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
-4. 💪 Opened PR [#21263](https://github.com/Automattic/jetpack/pull/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
-5. 🎉 Merged PR [#6](https://github.com/Christopher-Stevers/NewKanbeano/pull/6) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
-6. 💪 Opened PR [#6](https://github.com/Christopher-Stevers/NewKanbeano/pull/6) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
-7. 🎉 Merged PR [#5](https://github.com/Christopher-Stevers/NewKanbeano/pull/5) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
+4. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
+5. 💪 Opened PR [#21263](https://github.com/Automattic/jetpack/pull/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
+6. 🎉 Merged PR [#6](https://github.com/Christopher-Stevers/NewKanbeano/pull/6) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
+7. 💪 Opened PR [#6](https://github.com/Christopher-Stevers/NewKanbeano/pull/6) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
 <!--END_SECTION:activity-->
