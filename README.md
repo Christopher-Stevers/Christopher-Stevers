@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56756](https://github.com/Automattic/wp-calypso/issues/56756) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-2. ❗️ Closed issue [#3](https://github.com/Christopher-Stevers/Scribo/issues/3) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-3. 🗣 Commented on [#56199](https://github.com/Automattic/wp-calypso/issues/56199) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-4. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
+1. ❗️ Opened issue [#50](https://github.com/flyingfisch/FischBotDiscord-csharp/issues/50) in [flyingfisch/FischBotDiscord-csharp](https://github.com/flyingfisch/FischBotDiscord-csharp)
+2. 🗣 Commented on [#56756](https://github.com/Automattic/wp-calypso/issues/56756) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+3. ❗️ Closed issue [#3](https://github.com/Christopher-Stevers/Scribo/issues/3) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+4. 🗣 Commented on [#56199](https://github.com/Automattic/wp-calypso/issues/56199) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 5. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
-6. 💪 Opened PR [#21263](https://github.com/Automattic/jetpack/pull/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
-7. 🎉 Merged PR [#6](https://github.com/Christopher-Stevers/NewKanbeano/pull/6) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
+6. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
+7. 💪 Opened PR [#21263](https://github.com/Automattic/jetpack/pull/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
 <!--END_SECTION:activity-->
