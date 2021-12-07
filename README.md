@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/conradludgate/nuxt-mdx/issues/1) in [conradludgate/nuxt-mdx](https://github.com/conradludgate/nuxt-mdx)
-2. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
-3. 🗣 Commented on [#56756](https://github.com/Automattic/wp-calypso/issues/56756) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-4. ❗️ Opened issue [#50](https://github.com/flyingfisch/FischBotDiscord-csharp/issues/50) in [flyingfisch/FischBotDiscord-csharp](https://github.com/flyingfisch/FischBotDiscord-csharp)
+1. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/Stevers.Dev/pull/1) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
+2. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/Stevers.Dev/pull/1) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
+3. ❗️ Opened issue [#1](https://github.com/conradludgate/nuxt-mdx/issues/1) in [conradludgate/nuxt-mdx](https://github.com/conradludgate/nuxt-mdx)
+4. 🗣 Commented on [#21263](https://github.com/Automattic/jetpack/issues/21263) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
 5. 🗣 Commented on [#56756](https://github.com/Automattic/wp-calypso/issues/56756) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 6. ❗️ Closed issue [#3](https://github.com/Christopher-Stevers/Scribo/issues/3) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
 7. 🗣 Commented on [#56199](https://github.com/Automattic/wp-calypso/issues/56199) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
