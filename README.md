@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/ASP.NET-react-frontend/pull/1) in [Christopher-Stevers/ASP.NET-react-frontend](https://github.com/Christopher-Stevers/ASP.NET-react-frontend)
-2. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/ASP.NET-react-frontend/pull/1) in [Christopher-Stevers/ASP.NET-react-frontend](https://github.com/Christopher-Stevers/ASP.NET-react-frontend)
-3. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/Stevers.Dev/pull/1) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
-4. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/Stevers.Dev/pull/1) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
-5. ❗️ Opened issue [#1](https://github.com/conradludgate/nuxt-mdx/issues/1) in [conradludgate/nuxt-mdx](https://github.com/conradludgate/nuxt-mdx)
-6. ❗️ Closed issue [#3](https://github.com/Christopher-Stevers/Scribo/issues/3) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-7. 🗣 Commented on [#56199](https://github.com/Automattic/wp-calypso/issues/56199) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+1. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux/pull/1) in [Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux)
+2. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux/pull/1) in [Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux)
+3. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/ASP.NET-react-frontend/pull/1) in [Christopher-Stevers/ASP.NET-react-frontend](https://github.com/Christopher-Stevers/ASP.NET-react-frontend)
+4. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/ASP.NET-react-frontend/pull/1) in [Christopher-Stevers/ASP.NET-react-frontend](https://github.com/Christopher-Stevers/ASP.NET-react-frontend)
+5. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/Stevers.Dev/pull/1) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
+6. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/Stevers.Dev/pull/1) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
+7. ❗️ Opened issue [#1](https://github.com/conradludgate/nuxt-mdx/issues/1) in [conradludgate/nuxt-mdx](https://github.com/conradludgate/nuxt-mdx)
 <!--END_SECTION:activity-->
