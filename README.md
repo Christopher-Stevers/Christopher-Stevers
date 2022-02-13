@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/OpenQDev/OpenQ-Frontend/pull/55) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#54](https://github.com/OpenQDev/OpenQ-Frontend/pull/54) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#52](https://github.com/OpenQDev/OpenQ-Frontend/pull/52) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#14797](https://github.com/vercel/next.js/issues/14797) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux/pull/1) in [Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux)
-6. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux/pull/1) in [Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux)
-7. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/ASP.NET-react-frontend/pull/1) in [Christopher-Stevers/ASP.NET-react-frontend](https://github.com/Christopher-Stevers/ASP.NET-react-frontend)
+1. ❌ Closed PR [#55](https://github.com/OpenQDev/OpenQ-Frontend/pull/55) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#55](https://github.com/OpenQDev/OpenQ-Frontend/pull/55) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#54](https://github.com/OpenQDev/OpenQ-Frontend/pull/54) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#52](https://github.com/OpenQDev/OpenQ-Frontend/pull/52) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🗣 Commented on [#14797](https://github.com/vercel/next.js/issues/14797) in [vercel/next.js](https://github.com/vercel/next.js)
+6. 🎉 Merged PR [#1](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux/pull/1) in [Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux)
+7. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux/pull/1) in [Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux](https://github.com/Christopher-Stevers/Chess-Monorepo-C-.NET-React-Redux)
 <!--END_SECTION:activity-->
