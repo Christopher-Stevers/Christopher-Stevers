@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/OpenQDev/OpenQ-Frontend/issues/91) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#91](https://github.com/OpenQDev/OpenQ-Frontend/pull/91) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#90](https://github.com/OpenQDev/OpenQ-Frontend/pull/90) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#89](https://github.com/OpenQDev/OpenQ-Frontend/pull/89) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#87](https://github.com/OpenQDev/OpenQ-Frontend/pull/87) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#86](https://github.com/OpenQDev/OpenQ-Frontend/pull/86) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#83](https://github.com/OpenQDev/OpenQ-Frontend/pull/83) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Opened issue [#7](https://github.com/Christopher-Stevers/NewKanbeano/issues/7) in [Christopher-Stevers/NewKanbeano](https://github.com/Christopher-Stevers/NewKanbeano)
+2. ❗️ Opened issue [#4](https://github.com/Christopher-Stevers/Scribo/issues/4) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+3. 🗣 Commented on [#91](https://github.com/OpenQDev/OpenQ-Frontend/issues/91) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#91](https://github.com/OpenQDev/OpenQ-Frontend/pull/91) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 💪 Opened PR [#90](https://github.com/OpenQDev/OpenQ-Frontend/pull/90) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#89](https://github.com/OpenQDev/OpenQ-Frontend/pull/89) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#87](https://github.com/OpenQDev/OpenQ-Frontend/pull/87) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
