@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/testOpenQ/test/issues/11) in [testOpenQ/test](https://github.com/testOpenQ/test)
-2. 🎉 Merged PR [#12](https://github.com/testOpenQ/test/pull/12) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 💪 Opened PR [#12](https://github.com/testOpenQ/test/pull/12) in [testOpenQ/test](https://github.com/testOpenQ/test)
-4. ❗️ Opened issue [#11](https://github.com/testOpenQ/test/issues/11) in [testOpenQ/test](https://github.com/testOpenQ/test)
-5. 🎉 Merged PR [#10](https://github.com/testOpenQ/test/pull/10) in [testOpenQ/test](https://github.com/testOpenQ/test)
-6. ❗️ Closed issue [#9](https://github.com/testOpenQ/test/issues/9) in [testOpenQ/test](https://github.com/testOpenQ/test)
-7. 💪 Opened PR [#10](https://github.com/testOpenQ/test/pull/10) in [testOpenQ/test](https://github.com/testOpenQ/test)
+1. 🎉 Merged PR [#2](https://github.com/test2openq/sdfaf/pull/2) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+2. ❗️ Closed issue [#1](https://github.com/test2openq/sdfaf/issues/1) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+3. 💪 Opened PR [#2](https://github.com/test2openq/sdfaf/pull/2) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+4. ❗️ Opened issue [#1](https://github.com/test2openq/sdfaf/issues/1) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+5. ❗️ Closed issue [#11](https://github.com/testOpenQ/test/issues/11) in [testOpenQ/test](https://github.com/testOpenQ/test)
+6. 🎉 Merged PR [#12](https://github.com/testOpenQ/test/pull/12) in [testOpenQ/test](https://github.com/testOpenQ/test)
+7. 💪 Opened PR [#12](https://github.com/testOpenQ/test/pull/12) in [testOpenQ/test](https://github.com/testOpenQ/test)
 <!--END_SECTION:activity-->
