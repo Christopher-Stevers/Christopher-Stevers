@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/OpenQDev/OpenQ-Frontend/issues/140) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#140](https://github.com/OpenQDev/OpenQ-Frontend/pull/140) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🎉 Merged PR [#10](https://github.com/test2openq/sdfaf/pull/10) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
-4. ❗️ Closed issue [#9](https://github.com/test2openq/sdfaf/issues/9) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
-5. 💪 Opened PR [#10](https://github.com/test2openq/sdfaf/pull/10) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
-6. ❗️ Opened issue [#9](https://github.com/test2openq/sdfaf/issues/9) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
-7. 🎉 Merged PR [#16](https://github.com/testOpenQ/test/pull/16) in [testOpenQ/test](https://github.com/testOpenQ/test)
+1. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/OpenQ-Frontend/pull/1) in [Christopher-Stevers/OpenQ-Frontend](https://github.com/Christopher-Stevers/OpenQ-Frontend)
+2. 🗣 Commented on [#140](https://github.com/OpenQDev/OpenQ-Frontend/issues/140) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#140](https://github.com/OpenQDev/OpenQ-Frontend/pull/140) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🎉 Merged PR [#10](https://github.com/test2openq/sdfaf/pull/10) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+5. ❗️ Closed issue [#9](https://github.com/test2openq/sdfaf/issues/9) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+6. 💪 Opened PR [#10](https://github.com/test2openq/sdfaf/pull/10) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+7. ❗️ Opened issue [#9](https://github.com/test2openq/sdfaf/issues/9) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
 <!--END_SECTION:activity-->
