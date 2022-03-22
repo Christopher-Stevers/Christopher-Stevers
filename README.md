@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/testOpenQ/test/pull/18) in [testOpenQ/test](https://github.com/testOpenQ/test)
-2. ❗️ Closed issue [#17](https://github.com/testOpenQ/test/issues/17) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 💪 Opened PR [#18](https://github.com/testOpenQ/test/pull/18) in [testOpenQ/test](https://github.com/testOpenQ/test)
-4. ❗️ Opened issue [#17](https://github.com/testOpenQ/test/issues/17) in [testOpenQ/test](https://github.com/testOpenQ/test)
-5. 🗣 Commented on [#21751](https://github.com/facebook/react/issues/21751) in [facebook/react](https://github.com/facebook/react)
-6. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/OpenQ-Frontend/pull/1) in [Christopher-Stevers/OpenQ-Frontend](https://github.com/Christopher-Stevers/OpenQ-Frontend)
-7. 🗣 Commented on [#140](https://github.com/OpenQDev/OpenQ-Frontend/issues/140) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#141](https://github.com/OpenQDev/OpenQ-Frontend/pull/141) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#18](https://github.com/testOpenQ/test/pull/18) in [testOpenQ/test](https://github.com/testOpenQ/test)
+3. ❗️ Closed issue [#17](https://github.com/testOpenQ/test/issues/17) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. 💪 Opened PR [#18](https://github.com/testOpenQ/test/pull/18) in [testOpenQ/test](https://github.com/testOpenQ/test)
+5. ❗️ Opened issue [#17](https://github.com/testOpenQ/test/issues/17) in [testOpenQ/test](https://github.com/testOpenQ/test)
+6. 🗣 Commented on [#21751](https://github.com/facebook/react/issues/21751) in [facebook/react](https://github.com/facebook/react)
+7. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/OpenQ-Frontend/pull/1) in [Christopher-Stevers/OpenQ-Frontend](https://github.com/Christopher-Stevers/OpenQ-Frontend)
 <!--END_SECTION:activity-->
