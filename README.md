@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#180](https://github.com/OpenQDev/OpenQ-Frontend/pull/180) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Opened issue [#25](https://github.com/testOpenQ/test/issues/25) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. ❌ Reopened PR [#177](https://github.com/OpenQDev/OpenQ-Frontend/pull/177) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❌ Closed PR [#177](https://github.com/OpenQDev/OpenQ-Frontend/pull/177) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#177](https://github.com/OpenQDev/OpenQ-Frontend/pull/177) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#173](https://github.com/OpenQDev/OpenQ-Frontend/pull/173) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🗣 Commented on [#167](https://github.com/OpenQDev/OpenQ-Frontend/issues/167) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#186](https://github.com/OpenQDev/OpenQ-Frontend/pull/186) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#180](https://github.com/OpenQDev/OpenQ-Frontend/pull/180) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Opened issue [#25](https://github.com/testOpenQ/test/issues/25) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. ❌ Reopened PR [#177](https://github.com/OpenQDev/OpenQ-Frontend/pull/177) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❌ Closed PR [#177](https://github.com/OpenQDev/OpenQ-Frontend/pull/177) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#177](https://github.com/OpenQDev/OpenQ-Frontend/pull/177) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#173](https://github.com/OpenQDev/OpenQ-Frontend/pull/173) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
