@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
 2. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
 3. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
-4. ❗️ Opened issue [#39](https://github.com/testOpenQ/test/issues/39) in [testOpenQ/test](https://github.com/testOpenQ/test)
-5. 🗣 Commented on [#2](https://github.com/Christopher-Stevers/Stevers.Dev/issues/2) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
+4. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
+5. ❗️ Opened issue [#39](https://github.com/testOpenQ/test/issues/39) in [testOpenQ/test](https://github.com/testOpenQ/test)
 6. 🗣 Commented on [#2](https://github.com/Christopher-Stevers/Stevers.Dev/issues/2) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
-7. 💪 Opened PR [#215](https://github.com/OpenQDev/OpenQ-Frontend/pull/215) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🗣 Commented on [#2](https://github.com/Christopher-Stevers/Stevers.Dev/issues/2) in [Christopher-Stevers/Stevers.Dev](https://github.com/Christopher-Stevers/Stevers.Dev)
 <!--END_SECTION:activity-->
