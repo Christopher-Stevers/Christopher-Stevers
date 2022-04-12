@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#225](https://github.com/OpenQDev/OpenQ-Frontend/pull/225) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Bot/pull/1) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
-3. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
-4. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
+1. ❗️ Closed issue [#214](https://github.com/OpenQDev/OpenQ-Frontend/issues/214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Closed issue [#199](https://github.com/OpenQDev/OpenQ-Frontend/issues/199) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#225](https://github.com/OpenQDev/OpenQ-Frontend/pull/225) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Bot/pull/1) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
 5. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
 6. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
-7. ❗️ Opened issue [#39](https://github.com/testOpenQ/test/issues/39) in [testOpenQ/test](https://github.com/testOpenQ/test)
+7. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
 <!--END_SECTION:activity-->
