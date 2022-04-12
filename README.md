@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#227](https://github.com/OpenQDev/OpenQ-Frontend/pull/227) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#214](https://github.com/OpenQDev/OpenQ-Frontend/issues/214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Closed issue [#199](https://github.com/OpenQDev/OpenQ-Frontend/issues/199) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#225](https://github.com/OpenQDev/OpenQ-Frontend/pull/225) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Bot/pull/1) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
-6. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
+1. 💪 Opened PR [#229](https://github.com/OpenQDev/OpenQ-Frontend/pull/229) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#227](https://github.com/OpenQDev/OpenQ-Frontend/pull/227) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#214](https://github.com/OpenQDev/OpenQ-Frontend/issues/214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Closed issue [#199](https://github.com/OpenQDev/OpenQ-Frontend/issues/199) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 💪 Opened PR [#225](https://github.com/OpenQDev/OpenQ-Frontend/pull/225) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Bot/pull/1) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
 7. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
 <!--END_SECTION:activity-->
