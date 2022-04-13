@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/testOpenQ/test/pull/42) in [testOpenQ/test](https://github.com/testOpenQ/test)
-2. ❗️ Closed issue [#37](https://github.com/testOpenQ/test/issues/37) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 💪 Opened PR [#42](https://github.com/testOpenQ/test/pull/42) in [testOpenQ/test](https://github.com/testOpenQ/test)
-4. ❗️ Closed issue [#148](https://github.com/OpenQDev/OpenQ-TestRepo/issues/148) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 🎉 Merged PR [#149](https://github.com/OpenQDev/OpenQ-TestRepo/pull/149) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 💪 Opened PR [#149](https://github.com/OpenQDev/OpenQ-TestRepo/pull/149) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Opened issue [#148](https://github.com/OpenQDev/OpenQ-TestRepo/issues/148) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 💪 Opened PR [#234](https://github.com/OpenQDev/OpenQ-Frontend/pull/234) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#42](https://github.com/testOpenQ/test/pull/42) in [testOpenQ/test](https://github.com/testOpenQ/test)
+3. ❗️ Closed issue [#37](https://github.com/testOpenQ/test/issues/37) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. 💪 Opened PR [#42](https://github.com/testOpenQ/test/pull/42) in [testOpenQ/test](https://github.com/testOpenQ/test)
+5. ❗️ Closed issue [#148](https://github.com/OpenQDev/OpenQ-TestRepo/issues/148) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 🎉 Merged PR [#149](https://github.com/OpenQDev/OpenQ-TestRepo/pull/149) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 💪 Opened PR [#149](https://github.com/OpenQDev/OpenQ-TestRepo/pull/149) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
