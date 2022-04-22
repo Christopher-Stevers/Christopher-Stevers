@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/testOpenQ/test/issues/63) in [testOpenQ/test](https://github.com/testOpenQ/test)
-2. ❗️ Opened issue [#63](https://github.com/testOpenQ/test/issues/63) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 🗣 Commented on [#136](https://github.com/OpenQDev/OpenQ-TestRepo/issues/136) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 🗣 Commented on [#53](https://github.com/testOpenQ/test/issues/53) in [testOpenQ/test](https://github.com/testOpenQ/test)
+1. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Bot/pull/3) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
+2. 🗣 Commented on [#63](https://github.com/testOpenQ/test/issues/63) in [testOpenQ/test](https://github.com/testOpenQ/test)
+3. ❗️ Opened issue [#63](https://github.com/testOpenQ/test/issues/63) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. 🗣 Commented on [#136](https://github.com/OpenQDev/OpenQ-TestRepo/issues/136) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 5. 🗣 Commented on [#53](https://github.com/testOpenQ/test/issues/53) in [testOpenQ/test](https://github.com/testOpenQ/test)
 6. 🗣 Commented on [#53](https://github.com/testOpenQ/test/issues/53) in [testOpenQ/test](https://github.com/testOpenQ/test)
-7. ❗️ Opened issue [#2](https://github.com/OpenQDev/OpenQ-Bot/issues/2) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
+7. 🗣 Commented on [#53](https://github.com/testOpenQ/test/issues/53) in [testOpenQ/test](https://github.com/testOpenQ/test)
 <!--END_SECTION:activity-->
