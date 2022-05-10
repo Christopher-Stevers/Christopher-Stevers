@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#274](https://github.com/OpenQDev/OpenQ-Frontend/issues/274) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🗣 Commented on [#274](https://github.com/OpenQDev/OpenQ-Frontend/issues/274) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#309](https://github.com/OpenQDev/OpenQ-Frontend/pull/309) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Opened issue [#262](https://github.com/OpenQDev/OpenQ-TestRepo/issues/262) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 💪 Opened PR [#306](https://github.com/OpenQDev/OpenQ-Frontend/pull/306) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#303](https://github.com/OpenQDev/OpenQ-Frontend/pull/303) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Opened issue [#7](https://github.com/Christopher-Stevers/Scribo/issues/7) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+1. 🗣 Commented on [#349](https://github.com/NoahZinsmeister/web3-react/issues/349) in [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react)
+2. ❗️ Closed issue [#274](https://github.com/OpenQDev/OpenQ-Frontend/issues/274) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🗣 Commented on [#274](https://github.com/OpenQDev/OpenQ-Frontend/issues/274) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#309](https://github.com/OpenQDev/OpenQ-Frontend/pull/309) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Opened issue [#262](https://github.com/OpenQDev/OpenQ-TestRepo/issues/262) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 💪 Opened PR [#306](https://github.com/OpenQDev/OpenQ-Frontend/pull/306) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#303](https://github.com/OpenQDev/OpenQ-Frontend/pull/303) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
