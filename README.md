@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#264](https://github.com/OpenQDev/OpenQ-TestRepo/issues/264) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. ❗️ Opened issue [#263](https://github.com/OpenQDev/OpenQ-TestRepo/issues/263) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. ❗️ Closed issue [#28](https://github.com/OpenQDev/OpenQ-Frontend/issues/28) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#28](https://github.com/OpenQDev/OpenQ-Frontend/issues/28) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#310](https://github.com/OpenQDev/OpenQ-Frontend/pull/310) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🗣 Commented on [#349](https://github.com/NoahZinsmeister/web3-react/issues/349) in [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react)
-7. ❗️ Closed issue [#274](https://github.com/OpenQDev/OpenQ-Frontend/issues/274) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Opened issue [#265](https://github.com/OpenQDev/OpenQ-TestRepo/issues/265) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+2. ❗️ Opened issue [#264](https://github.com/OpenQDev/OpenQ-TestRepo/issues/264) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. ❗️ Opened issue [#263](https://github.com/OpenQDev/OpenQ-TestRepo/issues/263) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. ❗️ Closed issue [#28](https://github.com/OpenQDev/OpenQ-Frontend/issues/28) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🗣 Commented on [#28](https://github.com/OpenQDev/OpenQ-Frontend/issues/28) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#310](https://github.com/OpenQDev/OpenQ-Frontend/pull/310) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🗣 Commented on [#349](https://github.com/NoahZinsmeister/web3-react/issues/349) in [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react)
 <!--END_SECTION:activity-->
