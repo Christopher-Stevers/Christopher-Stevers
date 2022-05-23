@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/eph/issues/1) in [Christopher-Stevers/eph](https://github.com/Christopher-Stevers/eph)
-2. 💪 Opened PR [#356](https://github.com/OpenQDev/OpenQ-Frontend/pull/356) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#349](https://github.com/OpenQDev/OpenQ-Frontend/pull/349) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#6](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/6) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-5. ❗️ Opened issue [#347](https://github.com/OpenQDev/OpenQ-Frontend/issues/347) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#344](https://github.com/OpenQDev/OpenQ-Frontend/pull/344) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#339](https://github.com/OpenQDev/OpenQ-Frontend/pull/339) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/eph/issues/1) in [Christopher-Stevers/eph](https://github.com/Christopher-Stevers/eph)
+3. 💪 Opened PR [#356](https://github.com/OpenQDev/OpenQ-Frontend/pull/356) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#349](https://github.com/OpenQDev/OpenQ-Frontend/pull/349) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 💪 Opened PR [#6](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/6) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+6. ❗️ Opened issue [#347](https://github.com/OpenQDev/OpenQ-Frontend/issues/347) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#344](https://github.com/OpenQDev/OpenQ-Frontend/pull/344) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
