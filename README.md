@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/9) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-2. 🗣 Commented on [#352](https://github.com/OpenQDev/OpenQ-Frontend/issues/352) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#360](https://github.com/OpenQDev/OpenQ-Frontend/pull/360) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#345](https://github.com/OpenQDev/OpenQ-Frontend/issues/345) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#7](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/7) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-6. ❗️ Closed issue [#321](https://github.com/OpenQDev/OpenQ-Frontend/issues/321) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Opened issue [#358](https://github.com/OpenQDev/OpenQ-Frontend/issues/358) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#364](https://github.com/OpenQDev/OpenQ-Frontend/pull/364) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/9) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+3. 🗣 Commented on [#352](https://github.com/OpenQDev/OpenQ-Frontend/issues/352) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#360](https://github.com/OpenQDev/OpenQ-Frontend/pull/360) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🗣 Commented on [#345](https://github.com/OpenQDev/OpenQ-Frontend/issues/345) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#7](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/7) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+7. ❗️ Closed issue [#321](https://github.com/OpenQDev/OpenQ-Frontend/issues/321) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
