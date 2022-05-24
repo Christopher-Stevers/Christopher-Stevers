@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#321](https://github.com/OpenQDev/OpenQ-Frontend/issues/321) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Opened issue [#358](https://github.com/OpenQDev/OpenQ-Frontend/issues/358) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#357](https://github.com/OpenQDev/OpenQ-Frontend/pull/357) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/eph/issues/1) in [Christopher-Stevers/eph](https://github.com/Christopher-Stevers/eph)
-5. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/eph/issues/1) in [Christopher-Stevers/eph](https://github.com/Christopher-Stevers/eph)
-6. 💪 Opened PR [#356](https://github.com/OpenQDev/OpenQ-Frontend/pull/356) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#349](https://github.com/OpenQDev/OpenQ-Frontend/pull/349) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#360](https://github.com/OpenQDev/OpenQ-Frontend/pull/360) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🗣 Commented on [#345](https://github.com/OpenQDev/OpenQ-Frontend/issues/345) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#7](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/7) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+4. ❗️ Closed issue [#321](https://github.com/OpenQDev/OpenQ-Frontend/issues/321) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Opened issue [#358](https://github.com/OpenQDev/OpenQ-Frontend/issues/358) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#357](https://github.com/OpenQDev/OpenQ-Frontend/pull/357) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/eph/issues/1) in [Christopher-Stevers/eph](https://github.com/Christopher-Stevers/eph)
 <!--END_SECTION:activity-->
