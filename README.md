@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#389](https://github.com/OpenQDev/OpenQ-Frontend/pull/389) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/werwerer/issues/1) in [Christopher-Stevers/werwerer](https://github.com/Christopher-Stevers/werwerer)
-3. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/asdfsdfsadf/issues/1) in [Christopher-Stevers/asdfsdfsadf](https://github.com/Christopher-Stevers/asdfsdfsadf)
-4. 💪 Opened PR [#13](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/13) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-5. 💪 Opened PR [#386](https://github.com/OpenQDev/OpenQ-Frontend/pull/386) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#385](https://github.com/OpenQDev/OpenQ-Frontend/pull/385) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#384](https://github.com/OpenQDev/OpenQ-Frontend/pull/384) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#14](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/14) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+2. 🗣 Commented on [#389](https://github.com/OpenQDev/OpenQ-Frontend/issues/389) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#389](https://github.com/OpenQDev/OpenQ-Frontend/pull/389) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/werwerer/issues/1) in [Christopher-Stevers/werwerer](https://github.com/Christopher-Stevers/werwerer)
+5. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/asdfsdfsadf/issues/1) in [Christopher-Stevers/asdfsdfsadf](https://github.com/Christopher-Stevers/asdfsdfsadf)
+6. 💪 Opened PR [#13](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/13) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+7. 💪 Opened PR [#386](https://github.com/OpenQDev/OpenQ-Frontend/pull/386) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
