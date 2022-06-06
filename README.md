@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#406](https://github.com/OpenQDev/OpenQ-Frontend/pull/406) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🎉 Merged PR [#340](https://github.com/OpenQDev/OpenQ-TestRepo/pull/340) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. ❗️ Closed issue [#339](https://github.com/OpenQDev/OpenQ-TestRepo/issues/339) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 💪 Opened PR [#340](https://github.com/OpenQDev/OpenQ-TestRepo/pull/340) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. ❗️ Opened issue [#339](https://github.com/OpenQDev/OpenQ-TestRepo/issues/339) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 💪 Opened PR [#405](https://github.com/OpenQDev/OpenQ-Frontend/pull/405) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🗣 Commented on [#396](https://github.com/OpenQDev/OpenQ-Frontend/issues/396) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#408](https://github.com/OpenQDev/OpenQ-Frontend/pull/408) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#406](https://github.com/OpenQDev/OpenQ-Frontend/pull/406) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🎉 Merged PR [#340](https://github.com/OpenQDev/OpenQ-TestRepo/pull/340) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. ❗️ Closed issue [#339](https://github.com/OpenQDev/OpenQ-TestRepo/issues/339) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. 💪 Opened PR [#340](https://github.com/OpenQDev/OpenQ-TestRepo/pull/340) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. ❗️ Opened issue [#339](https://github.com/OpenQDev/OpenQ-TestRepo/issues/339) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 💪 Opened PR [#405](https://github.com/OpenQDev/OpenQ-Frontend/pull/405) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
