@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#450](https://github.com/OpenQDev/OpenQ-Frontend/pull/450) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#8](https://github.com/OpenQDev/OpenQ-API/pull/8) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-3. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/1) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-4. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/1) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
-5. ❗️ Opened issue [#449](https://github.com/OpenQDev/OpenQ-Frontend/issues/449) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#7](https://github.com/OpenQDev/OpenQ-API/pull/7) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-7. 🗣 Commented on [#41](https://github.com/testopenq1/repo1/issues/41) in [testopenq1/repo1](https://github.com/testopenq1/repo1)
+1. 💪 Opened PR [#2](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/2) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
+2. 💪 Opened PR [#450](https://github.com/OpenQDev/OpenQ-Frontend/pull/450) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#8](https://github.com/OpenQDev/OpenQ-API/pull/8) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+4. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/1) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+5. 💪 Opened PR [#1](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/1) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
+6. ❗️ Opened issue [#449](https://github.com/OpenQDev/OpenQ-Frontend/issues/449) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#7](https://github.com/OpenQDev/OpenQ-API/pull/7) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
 <!--END_SECTION:activity-->
