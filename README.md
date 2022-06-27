@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#5](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/5) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
+2. 💪 Opened PR [#6](https://github.com/OpenQDev/OpenQ-Bot/pull/6) in [OpenQDev/OpenQ-Bot](https://github.com/OpenQDev/OpenQ-Bot)
 3. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 4. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 5. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
