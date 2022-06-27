@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 3. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 4. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 5. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🎉 Merged PR [#13](https://github.com/Christopher-Stevers/Scribo/pull/13) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-7. 💪 Opened PR [#13](https://github.com/Christopher-Stevers/Scribo/pull/13) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+6. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🗣 Commented on [#458](https://github.com/OpenQDev/OpenQ-Frontend/issues/458) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
