@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#462](https://github.com/OpenQDev/OpenQ-Frontend/pull/462) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#461](https://github.com/OpenQDev/OpenQ-Frontend/pull/461) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🗣 Commented on [#411](https://github.com/OpenQDev/OpenQ-TestRepo/issues/411) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. ❌ Closed PR [#8](https://github.com/OpenQDev/OpenQ-API/pull/8) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+2. 💪 Opened PR [#462](https://github.com/OpenQDev/OpenQ-Frontend/pull/462) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#461](https://github.com/OpenQDev/OpenQ-Frontend/pull/461) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 4. 🗣 Commented on [#411](https://github.com/OpenQDev/OpenQ-TestRepo/issues/411) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 💪 Opened PR [#6](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/6) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
-6. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/3) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-7. 🗣 Commented on [#30](https://github.com/test2openq/sdfaf/issues/30) in [test2openq/sdfaf](https://github.com/test2openq/sdfaf)
+5. 🗣 Commented on [#411](https://github.com/OpenQDev/OpenQ-TestRepo/issues/411) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 💪 Opened PR [#6](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/6) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
+7. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/3) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
 <!--END_SECTION:activity-->
