@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 2. 🗣 Commented on [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 3. 🗣 Commented on [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 💪 Opened PR [#487](https://github.com/OpenQDev/OpenQ-Frontend/pull/487) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Opened issue [#486](https://github.com/OpenQDev/OpenQ-Frontend/issues/486) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🎉 Merged PR [#446](https://github.com/OpenQDev/OpenQ-TestRepo/pull/446) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Closed issue [#445](https://github.com/OpenQDev/OpenQ-TestRepo/issues/445) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 🗣 Commented on [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. 🗣 Commented on [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 💪 Opened PR [#487](https://github.com/OpenQDev/OpenQ-Frontend/pull/487) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Opened issue [#486](https://github.com/OpenQDev/OpenQ-Frontend/issues/486) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
