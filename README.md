@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#428](https://github.com/OpenQDev/OpenQ-TestRepo/pull/428) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. ❗️ Closed issue [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 🗣 Commented on [#475](https://github.com/OpenQDev/OpenQ-Frontend/issues/475) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#480](https://github.com/OpenQDev/OpenQ-Frontend/issues/480) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Closed issue [#429](https://github.com/OpenQDev/OpenQ-Frontend/issues/429) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🗣 Commented on [#429](https://github.com/OpenQDev/OpenQ-Frontend/issues/429) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#474](https://github.com/OpenQDev/OpenQ-Frontend/issues/474) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#1](https://github.com/ArcAnya/OpenQ-Frontend/pull/1) in [ArcAnya/OpenQ-Frontend](https://github.com/ArcAnya/OpenQ-Frontend)
+2. 🎉 Merged PR [#428](https://github.com/OpenQDev/OpenQ-TestRepo/pull/428) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. ❗️ Closed issue [#427](https://github.com/OpenQDev/OpenQ-TestRepo/issues/427) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 🗣 Commented on [#475](https://github.com/OpenQDev/OpenQ-Frontend/issues/475) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🗣 Commented on [#480](https://github.com/OpenQDev/OpenQ-Frontend/issues/480) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Closed issue [#429](https://github.com/OpenQDev/OpenQ-Frontend/issues/429) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🗣 Commented on [#429](https://github.com/OpenQDev/OpenQ-Frontend/issues/429) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
