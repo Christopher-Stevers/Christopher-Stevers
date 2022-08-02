@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/paulmillr/noble-hashes/issues/37) in [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes)
-2. 🎉 Merged PR [#531](https://github.com/OpenQDev/OpenQ-Frontend/pull/531) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#531](https://github.com/OpenQDev/OpenQ-Frontend/pull/531) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#422](https://github.com/OpenQDev/OpenQ-TestRepo/issues/422) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 🎉 Merged PR [#467](https://github.com/OpenQDev/OpenQ-TestRepo/pull/467) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 💪 Opened PR [#467](https://github.com/OpenQDev/OpenQ-TestRepo/pull/467) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Closed issue [#424](https://github.com/OpenQDev/OpenQ-TestRepo/issues/424) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. ❗️ Closed issue [#37](https://github.com/paulmillr/noble-hashes/issues/37) in [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes)
+2. ❗️ Opened issue [#37](https://github.com/paulmillr/noble-hashes/issues/37) in [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes)
+3. 🎉 Merged PR [#531](https://github.com/OpenQDev/OpenQ-Frontend/pull/531) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#531](https://github.com/OpenQDev/OpenQ-Frontend/pull/531) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#422](https://github.com/OpenQDev/OpenQ-TestRepo/issues/422) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 🎉 Merged PR [#467](https://github.com/OpenQDev/OpenQ-TestRepo/pull/467) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 💪 Opened PR [#467](https://github.com/OpenQDev/OpenQ-TestRepo/pull/467) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
