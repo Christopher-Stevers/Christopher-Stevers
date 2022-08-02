@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#529](https://github.com/OpenQDev/OpenQ-Frontend/pull/529) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🎉 Merged PR [#528](https://github.com/OpenQDev/OpenQ-Frontend/pull/528) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#528](https://github.com/OpenQDev/OpenQ-Frontend/pull/528) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🎉 Merged PR [#527](https://github.com/OpenQDev/OpenQ-Frontend/pull/527) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#527](https://github.com/OpenQDev/OpenQ-Frontend/pull/527) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🎉 Merged PR [#526](https://github.com/OpenQDev/OpenQ-Frontend/pull/526) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🎉 Merged PR [#525](https://github.com/OpenQDev/OpenQ-Frontend/pull/525) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#423](https://github.com/OpenQDev/OpenQ-TestRepo/issues/423) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+2. 🎉 Merged PR [#458](https://github.com/OpenQDev/OpenQ-TestRepo/pull/458) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. 💪 Opened PR [#458](https://github.com/OpenQDev/OpenQ-TestRepo/pull/458) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 🎉 Merged PR [#529](https://github.com/OpenQDev/OpenQ-Frontend/pull/529) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🎉 Merged PR [#528](https://github.com/OpenQDev/OpenQ-Frontend/pull/528) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#528](https://github.com/OpenQDev/OpenQ-Frontend/pull/528) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🎉 Merged PR [#527](https://github.com/OpenQDev/OpenQ-Frontend/pull/527) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
