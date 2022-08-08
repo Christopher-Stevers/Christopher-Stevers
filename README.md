@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#53](https://github.com/testOpenQ/test/issues/53) in [testOpenQ/test](https://github.com/testOpenQ/test)
-2. 🎉 Merged PR [#71](https://github.com/testOpenQ/test/pull/71) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 💪 Opened PR [#71](https://github.com/testOpenQ/test/pull/71) in [testOpenQ/test](https://github.com/testOpenQ/test)
-4. ❗️ Opened issue [#70](https://github.com/testOpenQ/test/issues/70) in [testOpenQ/test](https://github.com/testOpenQ/test)
-5. ❗️ Opened issue [#69](https://github.com/testOpenQ/test/issues/69) in [testOpenQ/test](https://github.com/testOpenQ/test)
-6. ❗️ Opened issue [#68](https://github.com/testOpenQ/test/issues/68) in [testOpenQ/test](https://github.com/testOpenQ/test)
-7. ❗️ Opened issue [#67](https://github.com/testOpenQ/test/issues/67) in [testOpenQ/test](https://github.com/testOpenQ/test)
+1. 🎉 Merged PR [#74](https://github.com/testOpenQ/test/pull/74) in [testOpenQ/test](https://github.com/testOpenQ/test)
+2. 🎉 Merged PR [#73](https://github.com/testOpenQ/test/pull/73) in [testOpenQ/test](https://github.com/testOpenQ/test)
+3. 💪 Opened PR [#73](https://github.com/testOpenQ/test/pull/73) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. ❗️ Closed issue [#70](https://github.com/testOpenQ/test/issues/70) in [testOpenQ/test](https://github.com/testOpenQ/test)
+5. 🎉 Merged PR [#72](https://github.com/testOpenQ/test/pull/72) in [testOpenQ/test](https://github.com/testOpenQ/test)
+6. 💪 Opened PR [#72](https://github.com/testOpenQ/test/pull/72) in [testOpenQ/test](https://github.com/testOpenQ/test)
+7. ❗️ Closed issue [#53](https://github.com/testOpenQ/test/issues/53) in [testOpenQ/test](https://github.com/testOpenQ/test)
 <!--END_SECTION:activity-->
