@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#570](https://github.com/OpenQDev/OpenQ-Frontend/pull/570) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#85](https://github.com/testOpenQ/test/issues/85) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 🎉 Merged PR [#86](https://github.com/testOpenQ/test/pull/86) in [testOpenQ/test](https://github.com/testOpenQ/test)
-4. 💪 Opened PR [#86](https://github.com/testOpenQ/test/pull/86) in [testOpenQ/test](https://github.com/testOpenQ/test)
-5. ❗️ Opened issue [#85](https://github.com/testOpenQ/test/issues/85) in [testOpenQ/test](https://github.com/testOpenQ/test)
-6. ❗️ Closed issue [#83](https://github.com/testOpenQ/test/issues/83) in [testOpenQ/test](https://github.com/testOpenQ/test)
-7. 🎉 Merged PR [#84](https://github.com/testOpenQ/test/pull/84) in [testOpenQ/test](https://github.com/testOpenQ/test)
+1. 🗣 Commented on [#553](https://github.com/OpenQDev/OpenQ-Frontend/issues/553) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#570](https://github.com/OpenQDev/OpenQ-Frontend/pull/570) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#85](https://github.com/testOpenQ/test/issues/85) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. 🎉 Merged PR [#86](https://github.com/testOpenQ/test/pull/86) in [testOpenQ/test](https://github.com/testOpenQ/test)
+5. 💪 Opened PR [#86](https://github.com/testOpenQ/test/pull/86) in [testOpenQ/test](https://github.com/testOpenQ/test)
+6. ❗️ Opened issue [#85](https://github.com/testOpenQ/test/issues/85) in [testOpenQ/test](https://github.com/testOpenQ/test)
+7. ❗️ Closed issue [#83](https://github.com/testOpenQ/test/issues/83) in [testOpenQ/test](https://github.com/testOpenQ/test)
 <!--END_SECTION:activity-->
