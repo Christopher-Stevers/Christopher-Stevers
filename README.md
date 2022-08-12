@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/3) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
-2. 💪 Opened PR [#590](https://github.com/OpenQDev/OpenQ-Frontend/pull/590) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#587](https://github.com/OpenQDev/OpenQ-Frontend/pull/587) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#2](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/2) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
-5. 💪 Opened PR [#13](https://github.com/OpenQDev/OpenQ-Fullstack/pull/13) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
-6. 💪 Opened PR [#582](https://github.com/OpenQDev/OpenQ-Frontend/pull/582) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🗣 Commented on [#577](https://github.com/OpenQDev/OpenQ-Frontend/issues/577) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#65](https://github.com/testOpenQ/test/issues/65) in [testOpenQ/test](https://github.com/testOpenQ/test)
+2. 🎉 Merged PR [#88](https://github.com/testOpenQ/test/pull/88) in [testOpenQ/test](https://github.com/testOpenQ/test)
+3. 💪 Opened PR [#88](https://github.com/testOpenQ/test/pull/88) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. ❗️ Closed issue [#69](https://github.com/testOpenQ/test/issues/69) in [testOpenQ/test](https://github.com/testOpenQ/test)
+5. 🎉 Merged PR [#87](https://github.com/testOpenQ/test/pull/87) in [testOpenQ/test](https://github.com/testOpenQ/test)
+6. 💪 Opened PR [#87](https://github.com/testOpenQ/test/pull/87) in [testOpenQ/test](https://github.com/testOpenQ/test)
+7. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/3) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
 <!--END_SECTION:activity-->
