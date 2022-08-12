@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#590](https://github.com/OpenQDev/OpenQ-Frontend/pull/590) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#587](https://github.com/OpenQDev/OpenQ-Frontend/pull/587) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#2](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/2) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
-4. 💪 Opened PR [#13](https://github.com/OpenQDev/OpenQ-Fullstack/pull/13) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
-5. 💪 Opened PR [#582](https://github.com/OpenQDev/OpenQ-Frontend/pull/582) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🗣 Commented on [#577](https://github.com/OpenQDev/OpenQ-Frontend/issues/577) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/3) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+1. 💪 Opened PR [#3](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/3) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
+2. 💪 Opened PR [#590](https://github.com/OpenQDev/OpenQ-Frontend/pull/590) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#587](https://github.com/OpenQDev/OpenQ-Frontend/pull/587) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#2](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/2) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
+5. 💪 Opened PR [#13](https://github.com/OpenQDev/OpenQ-Fullstack/pull/13) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
+6. 💪 Opened PR [#582](https://github.com/OpenQDev/OpenQ-Frontend/pull/582) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🗣 Commented on [#577](https://github.com/OpenQDev/OpenQ-Frontend/issues/577) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
