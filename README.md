@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#497](https://github.com/OpenQDev/OpenQ-TestRepo/pull/497) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. 💪 Opened PR [#497](https://github.com/OpenQDev/OpenQ-TestRepo/pull/497) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 🗣 Commented on [#595](https://github.com/OpenQDev/OpenQ-Frontend/issues/595) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#484](https://github.com/OpenQDev/OpenQ-TestRepo/issues/484) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 🎉 Merged PR [#496](https://github.com/OpenQDev/OpenQ-TestRepo/pull/496) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 💪 Opened PR [#496](https://github.com/OpenQDev/OpenQ-TestRepo/pull/496) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Closed issue [#488](https://github.com/OpenQDev/OpenQ-TestRepo/issues/488) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 💪 Opened PR [#4](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/4) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
+2. 🎉 Merged PR [#497](https://github.com/OpenQDev/OpenQ-TestRepo/pull/497) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. 💪 Opened PR [#497](https://github.com/OpenQDev/OpenQ-TestRepo/pull/497) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 🗣 Commented on [#595](https://github.com/OpenQDev/OpenQ-Frontend/issues/595) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#484](https://github.com/OpenQDev/OpenQ-TestRepo/issues/484) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 🎉 Merged PR [#496](https://github.com/OpenQDev/OpenQ-TestRepo/pull/496) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 💪 Opened PR [#496](https://github.com/OpenQDev/OpenQ-TestRepo/pull/496) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
