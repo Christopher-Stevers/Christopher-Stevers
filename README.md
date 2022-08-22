@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#611](https://github.com/OpenQDev/OpenQ-Frontend/issues/611) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#609](https://github.com/OpenQDev/OpenQ-Frontend/pull/609) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Closed issue [#605](https://github.com/OpenQDev/OpenQ-Frontend/issues/605) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Opened issue [#605](https://github.com/OpenQDev/OpenQ-Frontend/issues/605) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Closed issue [#593](https://github.com/OpenQDev/OpenQ-Frontend/issues/593) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#596](https://github.com/OpenQDev/OpenQ-Frontend/issues/596) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#597](https://github.com/OpenQDev/OpenQ-Frontend/issues/597) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#4](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/4) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+2. 💪 Opened PR [#17](https://github.com/OpenQDev/OpenQ-API/pull/17) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+3. 💪 Opened PR [#631](https://github.com/OpenQDev/OpenQ-Frontend/pull/631) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Opened issue [#611](https://github.com/OpenQDev/OpenQ-Frontend/issues/611) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 💪 Opened PR [#609](https://github.com/OpenQDev/OpenQ-Frontend/pull/609) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Closed issue [#605](https://github.com/OpenQDev/OpenQ-Frontend/issues/605) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Opened issue [#605](https://github.com/OpenQDev/OpenQ-Frontend/issues/605) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
