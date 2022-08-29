@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#685](https://github.com/OpenQDev/OpenQ-Frontend/issues/685) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#66](https://github.com/testOpenQ/test/issues/66) in [testOpenQ/test](https://github.com/testOpenQ/test)
-3. 🎉 Merged PR [#92](https://github.com/testOpenQ/test/pull/92) in [testOpenQ/test](https://github.com/testOpenQ/test)
-4. 💪 Opened PR [#92](https://github.com/testOpenQ/test/pull/92) in [testOpenQ/test](https://github.com/testOpenQ/test)
-5. ❗️ Closed issue [#703](https://github.com/OpenQDev/OpenQ-Frontend/issues/703) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Opened issue [#703](https://github.com/OpenQDev/OpenQ-Frontend/issues/703) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🗣 Commented on [#701](https://github.com/OpenQDev/OpenQ-Frontend/issues/701) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#708](https://github.com/OpenQDev/OpenQ-Frontend/pull/708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Closed issue [#685](https://github.com/OpenQDev/OpenQ-Frontend/issues/685) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#66](https://github.com/testOpenQ/test/issues/66) in [testOpenQ/test](https://github.com/testOpenQ/test)
+4. 🎉 Merged PR [#92](https://github.com/testOpenQ/test/pull/92) in [testOpenQ/test](https://github.com/testOpenQ/test)
+5. 💪 Opened PR [#92](https://github.com/testOpenQ/test/pull/92) in [testOpenQ/test](https://github.com/testOpenQ/test)
+6. ❗️ Closed issue [#703](https://github.com/OpenQDev/OpenQ-Frontend/issues/703) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Opened issue [#703](https://github.com/OpenQDev/OpenQ-Frontend/issues/703) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
