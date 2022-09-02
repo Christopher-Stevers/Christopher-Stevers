@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#713](https://github.com/OpenQDev/OpenQ-Frontend/pull/713) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🗣 Commented on [#693](https://github.com/OpenQDev/OpenQ-Frontend/issues/693) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#710](https://github.com/OpenQDev/OpenQ-Frontend/pull/710) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#708](https://github.com/OpenQDev/OpenQ-Frontend/pull/708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Closed issue [#685](https://github.com/OpenQDev/OpenQ-Frontend/issues/685) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#66](https://github.com/testOpenQ/test/issues/66) in [testOpenQ/test](https://github.com/testOpenQ/test)
-7. 🎉 Merged PR [#92](https://github.com/testOpenQ/test/pull/92) in [testOpenQ/test](https://github.com/testOpenQ/test)
+1. ❗️ Opened issue [#714](https://github.com/OpenQDev/OpenQ-Frontend/issues/714) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#713](https://github.com/OpenQDev/OpenQ-Frontend/pull/713) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🗣 Commented on [#693](https://github.com/OpenQDev/OpenQ-Frontend/issues/693) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#710](https://github.com/OpenQDev/OpenQ-Frontend/pull/710) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 💪 Opened PR [#708](https://github.com/OpenQDev/OpenQ-Frontend/pull/708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Closed issue [#685](https://github.com/OpenQDev/OpenQ-Frontend/issues/685) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#66](https://github.com/testOpenQ/test/issues/66) in [testOpenQ/test](https://github.com/testOpenQ/test)
 <!--END_SECTION:activity-->
