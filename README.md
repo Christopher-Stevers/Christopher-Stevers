@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-2. ❌ Reopened PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-3. ❌ Closed PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-4. 🎉 Merged PR [#19](https://github.com/Christopher-Stevers/Scribo/pull/19) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-5. 💪 Opened PR [#19](https://github.com/Christopher-Stevers/Scribo/pull/19) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-6. 💪 Opened PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-7. 🎉 Merged PR [#17](https://github.com/Christopher-Stevers/Scribo/pull/17) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+1. 💪 Opened PR [#720](https://github.com/OpenQDev/OpenQ-Frontend/pull/720) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+3. ❌ Reopened PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+4. ❌ Closed PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+5. 🎉 Merged PR [#19](https://github.com/Christopher-Stevers/Scribo/pull/19) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+6. 💪 Opened PR [#19](https://github.com/Christopher-Stevers/Scribo/pull/19) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+7. 💪 Opened PR [#18](https://github.com/Christopher-Stevers/Scribo/pull/18) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
 <!--END_SECTION:activity-->
