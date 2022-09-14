@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#615](https://github.com/OpenQDev/OpenQ-TestRepo/pull/615) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. 💪 Opened PR [#615](https://github.com/OpenQDev/OpenQ-TestRepo/pull/615) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 🗣 Commented on [#1](https://github.com/Christopher-Stevers/OpenQ-TestRepo/issues/1) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
-4. ❗️ Opened issue [#1](https://github.com/Christopher-Stevers/OpenQ-TestRepo/issues/1) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
-5. ❗️ Closed issue [#527](https://github.com/OpenQDev/OpenQ-TestRepo/issues/527) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 🎉 Merged PR [#614](https://github.com/OpenQDev/OpenQ-TestRepo/pull/614) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 💪 Opened PR [#614](https://github.com/OpenQDev/OpenQ-TestRepo/pull/614) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 🎉 Merged PR [#3](https://github.com/Christopher-Stevers/OpenQ-TestRepo/pull/3) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
+2. 💪 Opened PR [#3](https://github.com/Christopher-Stevers/OpenQ-TestRepo/pull/3) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
+3. ❗️ Closed issue [#1](https://github.com/Christopher-Stevers/OpenQ-TestRepo/issues/1) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
+4. 🎉 Merged PR [#2](https://github.com/Christopher-Stevers/OpenQ-TestRepo/pull/2) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
+5. 💪 Opened PR [#2](https://github.com/Christopher-Stevers/OpenQ-TestRepo/pull/2) in [Christopher-Stevers/OpenQ-TestRepo](https://github.com/Christopher-Stevers/OpenQ-TestRepo)
+6. 🎉 Merged PR [#615](https://github.com/OpenQDev/OpenQ-TestRepo/pull/615) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 💪 Opened PR [#615](https://github.com/OpenQDev/OpenQ-TestRepo/pull/615) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
