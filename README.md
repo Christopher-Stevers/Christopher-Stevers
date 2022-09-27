@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#770](https://github.com/OpenQDev/OpenQ-Frontend/pull/770) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🎉 Merged PR [#773](https://github.com/OpenQDev/OpenQ-Frontend/pull/773) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 2. 💪 Opened PR [#770](https://github.com/OpenQDev/OpenQ-Frontend/pull/770) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 3. 🎉 Merged PR [#769](https://github.com/OpenQDev/OpenQ-Frontend/pull/769) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 4. 💪 Opened PR [#769](https://github.com/OpenQDev/OpenQ-Frontend/pull/769) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
