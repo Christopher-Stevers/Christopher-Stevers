@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/OpenQDev/OpenQ-Landing-Page-V2/pull/5) in [OpenQDev/OpenQ-Landing-Page-V2](https://github.com/OpenQDev/OpenQ-Landing-Page-V2)
-2. ❗️ Closed issue [#630](https://github.com/OpenQDev/OpenQ-TestRepo/issues/630) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 🎉 Merged PR [#631](https://github.com/OpenQDev/OpenQ-TestRepo/pull/631) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 💪 Opened PR [#631](https://github.com/OpenQDev/OpenQ-TestRepo/pull/631) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. ❗️ Opened issue [#630](https://github.com/OpenQDev/OpenQ-TestRepo/issues/630) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 🎉 Merged PR [#773](https://github.com/OpenQDev/OpenQ-Frontend/pull/773) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#764](https://github.com/OpenQDev/OpenQ-Frontend/pull/764) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#766](https://github.com/OpenQDev/OpenQ-Frontend/issues/766) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#5](https://github.com/OpenQDev/OpenQ-Landing-Page-V2/pull/5) in [OpenQDev/OpenQ-Landing-Page-V2](https://github.com/OpenQDev/OpenQ-Landing-Page-V2)
+3. ❗️ Closed issue [#630](https://github.com/OpenQDev/OpenQ-TestRepo/issues/630) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 🎉 Merged PR [#631](https://github.com/OpenQDev/OpenQ-TestRepo/pull/631) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. 💪 Opened PR [#631](https://github.com/OpenQDev/OpenQ-TestRepo/pull/631) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. ❗️ Opened issue [#630](https://github.com/OpenQDev/OpenQ-TestRepo/issues/630) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 🎉 Merged PR [#773](https://github.com/OpenQDev/OpenQ-Frontend/pull/773) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
