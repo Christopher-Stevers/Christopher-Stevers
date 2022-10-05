@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/10) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-2. ❗️ Opened issue [#632](https://github.com/OpenQDev/OpenQ-TestRepo/issues/632) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 💪 Opened PR [#11](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/11) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-4. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/9) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-5. 💪 Opened PR [#26](https://github.com/OpenQDev/OpenQ-API/pull/26) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-6. 🎉 Merged PR [#25](https://github.com/OpenQDev/OpenQ-API/pull/25) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-7. 🎉 Merged PR [#794](https://github.com/OpenQDev/OpenQ-Frontend/pull/794) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#797](https://github.com/OpenQDev/OpenQ-Frontend/issues/797) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🗣 Commented on [#797](https://github.com/OpenQDev/OpenQ-Frontend/issues/797) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#786](https://github.com/OpenQDev/OpenQ-Frontend/issues/786) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Closed issue [#800](https://github.com/OpenQDev/OpenQ-Frontend/issues/800) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#784](https://github.com/OpenQDev/OpenQ-Frontend/issues/784) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#10](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/10) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+7. ❗️ Opened issue [#632](https://github.com/OpenQDev/OpenQ-TestRepo/issues/632) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
