@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/Christopher-Stevers/Scribo/issues/21) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-2. ❗️ Opened issue [#20](https://github.com/Christopher-Stevers/Scribo/issues/20) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-3. 💪 Opened PR [#808](https://github.com/OpenQDev/OpenQ-Frontend/pull/808) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Opened issue [#807](https://github.com/OpenQDev/OpenQ-Frontend/issues/807) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Closed issue [#797](https://github.com/OpenQDev/OpenQ-Frontend/issues/797) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🗣 Commented on [#797](https://github.com/OpenQDev/OpenQ-Frontend/issues/797) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#786](https://github.com/OpenQDev/OpenQ-Frontend/issues/786) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#5](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/5) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
+2. 💪 Opened PR [#816](https://github.com/OpenQDev/OpenQ-Frontend/pull/816) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Opened issue [#21](https://github.com/Christopher-Stevers/Scribo/issues/21) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+4. ❗️ Opened issue [#20](https://github.com/Christopher-Stevers/Scribo/issues/20) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+5. 💪 Opened PR [#808](https://github.com/OpenQDev/OpenQ-Frontend/pull/808) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Opened issue [#807](https://github.com/OpenQDev/OpenQ-Frontend/issues/807) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#797](https://github.com/OpenQDev/OpenQ-Frontend/issues/797) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
