@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#835](https://github.com/OpenQDev/OpenQ-Frontend/issues/835) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#11](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/issues/11) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-3. ❗️ Closed issue [#21](https://github.com/Christopher-Stevers/Scribo/issues/21) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-4. 🎉 Merged PR [#22](https://github.com/Christopher-Stevers/Scribo/pull/22) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-5. 💪 Opened PR [#22](https://github.com/Christopher-Stevers/Scribo/pull/22) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-6. 🎉 Merged PR [#15](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/15) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-7. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Landing-Page-V2/pull/9) in [OpenQDev/OpenQ-Landing-Page-V2](https://github.com/OpenQDev/OpenQ-Landing-Page-V2)
+1. ❗️ Closed issue [#2](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask/issues/2) in [OpenQDev/OpenQ-OZ-Claim-Autotask](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask)
+2. ❗️ Opened issue [#835](https://github.com/OpenQDev/OpenQ-Frontend/issues/835) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#11](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/issues/11) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+4. ❗️ Closed issue [#21](https://github.com/Christopher-Stevers/Scribo/issues/21) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+5. 🎉 Merged PR [#22](https://github.com/Christopher-Stevers/Scribo/pull/22) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+6. 💪 Opened PR [#22](https://github.com/Christopher-Stevers/Scribo/pull/22) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+7. 🎉 Merged PR [#15](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/15) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
 <!--END_SECTION:activity-->
