@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/15) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
-2. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Landing-Page-V2/pull/9) in [OpenQDev/OpenQ-Landing-Page-V2](https://github.com/OpenQDev/OpenQ-Landing-Page-V2)
-3. ❗️ Opened issue [#821](https://github.com/OpenQDev/OpenQ-Frontend/issues/821) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🎉 Merged PR [#819](https://github.com/OpenQDev/OpenQ-Frontend/pull/819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#819](https://github.com/OpenQDev/OpenQ-Frontend/pull/819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🎉 Merged PR [#818](https://github.com/OpenQDev/OpenQ-Frontend/pull/818) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#818](https://github.com/OpenQDev/OpenQ-Frontend/pull/818) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#21](https://github.com/Christopher-Stevers/Scribo/issues/21) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+2. 🎉 Merged PR [#22](https://github.com/Christopher-Stevers/Scribo/pull/22) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+3. 💪 Opened PR [#22](https://github.com/Christopher-Stevers/Scribo/pull/22) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+4. 🎉 Merged PR [#15](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/15) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+5. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Landing-Page-V2/pull/9) in [OpenQDev/OpenQ-Landing-Page-V2](https://github.com/OpenQDev/OpenQ-Landing-Page-V2)
+6. ❗️ Opened issue [#821](https://github.com/OpenQDev/OpenQ-Frontend/issues/821) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🎉 Merged PR [#819](https://github.com/OpenQDev/OpenQ-Frontend/pull/819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
