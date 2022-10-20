@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#655](https://github.com/OpenQDev/OpenQ-TestRepo/issues/655) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. 🎉 Merged PR [#656](https://github.com/OpenQDev/OpenQ-TestRepo/pull/656) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 💪 Opened PR [#656](https://github.com/OpenQDev/OpenQ-TestRepo/pull/656) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. ❗️ Opened issue [#655](https://github.com/OpenQDev/OpenQ-TestRepo/issues/655) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 🗣 Commented on [#840](https://github.com/OpenQDev/OpenQ-Frontend/issues/840) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#79](https://github.com/OpenQDev/OpenQ-Contracts/pull/79) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
-7. ❗️ Closed issue [#2](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask/issues/2) in [OpenQDev/OpenQ-OZ-Claim-Autotask](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask)
+1. ❗️ Opened issue [#657](https://github.com/OpenQDev/OpenQ-TestRepo/issues/657) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+2. ❗️ Closed issue [#655](https://github.com/OpenQDev/OpenQ-TestRepo/issues/655) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. 🎉 Merged PR [#656](https://github.com/OpenQDev/OpenQ-TestRepo/pull/656) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 💪 Opened PR [#656](https://github.com/OpenQDev/OpenQ-TestRepo/pull/656) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. ❗️ Opened issue [#655](https://github.com/OpenQDev/OpenQ-TestRepo/issues/655) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 🗣 Commented on [#840](https://github.com/OpenQDev/OpenQ-Frontend/issues/840) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#79](https://github.com/OpenQDev/OpenQ-Contracts/pull/79) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
 <!--END_SECTION:activity-->
