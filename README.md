@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Christopher-Stevers/Scribo/pull/24) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-2. 💪 Opened PR [#24](https://github.com/Christopher-Stevers/Scribo/pull/24) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-3. 🎉 Merged PR [#23](https://github.com/Christopher-Stevers/Scribo/pull/23) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-4. 💪 Opened PR [#23](https://github.com/Christopher-Stevers/Scribo/pull/23) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-5. 🗣 Commented on [#841](https://github.com/OpenQDev/OpenQ-Frontend/issues/841) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#665](https://github.com/OpenQDev/OpenQ-TestRepo/issues/665) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 🎉 Merged PR [#669](https://github.com/OpenQDev/OpenQ-TestRepo/pull/669) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. ❗️ Reopened issue [#660](https://github.com/OpenQDev/OpenQ-TestRepo/issues/660) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+2. ❗️ Reopened issue [#666](https://github.com/OpenQDev/OpenQ-TestRepo/issues/666) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. 🎉 Merged PR [#24](https://github.com/Christopher-Stevers/Scribo/pull/24) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+4. 💪 Opened PR [#24](https://github.com/Christopher-Stevers/Scribo/pull/24) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+5. 🎉 Merged PR [#23](https://github.com/Christopher-Stevers/Scribo/pull/23) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+6. 💪 Opened PR [#23](https://github.com/Christopher-Stevers/Scribo/pull/23) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+7. 🗣 Commented on [#841](https://github.com/OpenQDev/OpenQ-Frontend/issues/841) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
