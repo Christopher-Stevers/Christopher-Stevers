@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#641](https://github.com/OpenQDev/OpenQ-TestRepo/issues/641) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. ❗️ Reopened issue [#649](https://github.com/OpenQDev/OpenQ-TestRepo/issues/649) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. ❗️ Reopened issue [#644](https://github.com/OpenQDev/OpenQ-TestRepo/issues/644) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. ❗️ Reopened issue [#639](https://github.com/OpenQDev/OpenQ-TestRepo/issues/639) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. ❗️ Reopened issue [#651](https://github.com/OpenQDev/OpenQ-TestRepo/issues/651) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. ❗️ Reopened issue [#657](https://github.com/OpenQDev/OpenQ-TestRepo/issues/657) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Reopened issue [#655](https://github.com/OpenQDev/OpenQ-TestRepo/issues/655) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 💪 Opened PR [#30](https://github.com/OpenQDev/OpenQ-API/pull/30) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+2. ❗️ Reopened issue [#641](https://github.com/OpenQDev/OpenQ-TestRepo/issues/641) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. ❗️ Reopened issue [#649](https://github.com/OpenQDev/OpenQ-TestRepo/issues/649) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. ❗️ Reopened issue [#644](https://github.com/OpenQDev/OpenQ-TestRepo/issues/644) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. ❗️ Reopened issue [#639](https://github.com/OpenQDev/OpenQ-TestRepo/issues/639) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. ❗️ Reopened issue [#651](https://github.com/OpenQDev/OpenQ-TestRepo/issues/651) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. ❗️ Reopened issue [#657](https://github.com/OpenQDev/OpenQ-TestRepo/issues/657) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
