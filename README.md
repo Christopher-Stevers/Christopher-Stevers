@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#880](https://github.com/OpenQDev/OpenQ-Frontend/pull/880) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#664](https://github.com/OpenQDev/OpenQ-TestRepo/issues/664) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 🎉 Merged PR [#682](https://github.com/OpenQDev/OpenQ-TestRepo/pull/682) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 💪 Opened PR [#682](https://github.com/OpenQDev/OpenQ-TestRepo/pull/682) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. ❗️ Opened issue [#877](https://github.com/OpenQDev/OpenQ-Frontend/issues/877) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#25](https://github.com/Christopher-Stevers/Scribo/issues/25) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-7. 🎉 Merged PR [#27](https://github.com/Christopher-Stevers/Scribo/pull/27) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+1. 🗣 Commented on [#879](https://github.com/OpenQDev/OpenQ-Frontend/issues/879) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#880](https://github.com/OpenQDev/OpenQ-Frontend/pull/880) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#664](https://github.com/OpenQDev/OpenQ-TestRepo/issues/664) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 🎉 Merged PR [#682](https://github.com/OpenQDev/OpenQ-TestRepo/pull/682) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. 💪 Opened PR [#682](https://github.com/OpenQDev/OpenQ-TestRepo/pull/682) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. ❗️ Opened issue [#877](https://github.com/OpenQDev/OpenQ-Frontend/issues/877) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#25](https://github.com/Christopher-Stevers/Scribo/issues/25) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
 <!--END_SECTION:activity-->
