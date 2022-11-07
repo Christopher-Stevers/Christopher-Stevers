@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Christopher-Stevers/Scribo/issues/6) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-2. 🎉 Merged PR [#28](https://github.com/Christopher-Stevers/Scribo/pull/28) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-3. 💪 Opened PR [#28](https://github.com/Christopher-Stevers/Scribo/pull/28) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
-4. 🗣 Commented on [#906](https://github.com/OpenQDev/OpenQ-Frontend/issues/906) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🗣 Commented on [#912](https://github.com/OpenQDev/OpenQ-Frontend/issues/912) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Closed issue [#6](https://github.com/Christopher-Stevers/Scribo/issues/6) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+3. 🎉 Merged PR [#28](https://github.com/Christopher-Stevers/Scribo/pull/28) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
+4. 💪 Opened PR [#28](https://github.com/Christopher-Stevers/Scribo/pull/28) in [Christopher-Stevers/Scribo](https://github.com/Christopher-Stevers/Scribo)
 5. 🗣 Commented on [#906](https://github.com/OpenQDev/OpenQ-Frontend/issues/906) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🗣 Commented on [#896](https://github.com/OpenQDev/OpenQ-Frontend/issues/896) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🎉 Merged PR [#911](https://github.com/OpenQDev/OpenQ-Frontend/pull/911) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🗣 Commented on [#906](https://github.com/OpenQDev/OpenQ-Frontend/issues/906) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🗣 Commented on [#896](https://github.com/OpenQDev/OpenQ-Frontend/issues/896) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
