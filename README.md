@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#918](https://github.com/OpenQDev/OpenQ-Frontend/pull/918) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🎉 Merged PR [#920](https://github.com/OpenQDev/OpenQ-Frontend/pull/920) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🎉 Merged PR [#921](https://github.com/OpenQDev/OpenQ-Frontend/pull/921) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#921](https://github.com/OpenQDev/OpenQ-Frontend/pull/921) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❌ Closed PR [#917](https://github.com/OpenQDev/OpenQ-Frontend/pull/917) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🗣 Commented on [#906](https://github.com/OpenQDev/OpenQ-Frontend/issues/906) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#917](https://github.com/OpenQDev/OpenQ-Frontend/pull/917) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🎉 Merged PR [#922](https://github.com/OpenQDev/OpenQ-Frontend/pull/922) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#922](https://github.com/OpenQDev/OpenQ-Frontend/pull/922) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🎉 Merged PR [#918](https://github.com/OpenQDev/OpenQ-Frontend/pull/918) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🎉 Merged PR [#920](https://github.com/OpenQDev/OpenQ-Frontend/pull/920) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🎉 Merged PR [#921](https://github.com/OpenQDev/OpenQ-Frontend/pull/921) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#921](https://github.com/OpenQDev/OpenQ-Frontend/pull/921) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❌ Closed PR [#917](https://github.com/OpenQDev/OpenQ-Frontend/pull/917) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
