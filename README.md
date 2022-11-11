@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#964](https://github.com/OpenQDev/OpenQ-Frontend/issues/964) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#963](https://github.com/OpenQDev/OpenQ-Frontend/issues/963) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Closed issue [#962](https://github.com/OpenQDev/OpenQ-Frontend/issues/962) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#943](https://github.com/OpenQDev/OpenQ-Frontend/issues/943) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Closed issue [#965](https://github.com/OpenQDev/OpenQ-Frontend/issues/965) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#967](https://github.com/OpenQDev/OpenQ-Frontend/issues/967) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#968](https://github.com/OpenQDev/OpenQ-Frontend/issues/968) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#973](https://github.com/OpenQDev/OpenQ-Frontend/pull/973) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Closed issue [#964](https://github.com/OpenQDev/OpenQ-Frontend/issues/964) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#963](https://github.com/OpenQDev/OpenQ-Frontend/issues/963) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Closed issue [#962](https://github.com/OpenQDev/OpenQ-Frontend/issues/962) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#943](https://github.com/OpenQDev/OpenQ-Frontend/issues/943) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Closed issue [#965](https://github.com/OpenQDev/OpenQ-Frontend/issues/965) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#967](https://github.com/OpenQDev/OpenQ-Frontend/issues/967) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
