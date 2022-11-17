@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#993](https://github.com/OpenQDev/OpenQ-Frontend/issues/993) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🗣 Commented on [#933](https://github.com/OpenQDev/OpenQ-Frontend/issues/933) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 2. 🗣 Commented on [#993](https://github.com/OpenQDev/OpenQ-Frontend/issues/993) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#994](https://github.com/OpenQDev/OpenQ-Frontend/pull/994) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#990](https://github.com/OpenQDev/OpenQ-Frontend/issues/990) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🗣 Commented on [#992](https://github.com/OpenQDev/OpenQ-Frontend/issues/992) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#32](https://github.com/OpenQDev/OpenQ-API/pull/32) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-7. 🗣 Commented on [#986](https://github.com/OpenQDev/OpenQ-Frontend/issues/986) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🗣 Commented on [#993](https://github.com/OpenQDev/OpenQ-Frontend/issues/993) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#994](https://github.com/OpenQDev/OpenQ-Frontend/pull/994) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🗣 Commented on [#990](https://github.com/OpenQDev/OpenQ-Frontend/issues/990) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🗣 Commented on [#992](https://github.com/OpenQDev/OpenQ-Frontend/issues/992) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#32](https://github.com/OpenQDev/OpenQ-API/pull/32) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
 <!--END_SECTION:activity-->
