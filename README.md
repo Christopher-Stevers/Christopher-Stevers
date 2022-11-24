@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1008](https://github.com/OpenQDev/OpenQ-Frontend/pull/1008) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#36](https://github.com/OpenQDev/OpenQ-API/pull/36) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-3. ❗️ Opened issue [#35](https://github.com/OpenQDev/OpenQ-API/issues/35) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-4. ❗️ Closed issue [#734](https://github.com/OpenQDev/OpenQ-TestRepo/issues/734) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 🎉 Merged PR [#735](https://github.com/OpenQDev/OpenQ-TestRepo/pull/735) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/9) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
-7. 🎉 Merged PR [#15](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/15) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+1. 🗣 Commented on [#1008](https://github.com/OpenQDev/OpenQ-Frontend/issues/1008) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#1008](https://github.com/OpenQDev/OpenQ-Frontend/pull/1008) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#36](https://github.com/OpenQDev/OpenQ-API/pull/36) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+4. ❗️ Opened issue [#35](https://github.com/OpenQDev/OpenQ-API/issues/35) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+5. ❗️ Closed issue [#734](https://github.com/OpenQDev/OpenQ-TestRepo/issues/734) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 🎉 Merged PR [#735](https://github.com/OpenQDev/OpenQ-TestRepo/pull/735) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/9) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
 <!--END_SECTION:activity-->
