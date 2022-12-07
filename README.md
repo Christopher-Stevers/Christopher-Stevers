@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/OpenQDev/OpenQ-API/issues/37) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-2. 💪 Opened PR [#1038](https://github.com/OpenQDev/OpenQ-Frontend/pull/1038) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🎉 Merged PR [#1037](https://github.com/OpenQDev/OpenQ-Frontend/pull/1037) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#1032](https://github.com/OpenQDev/OpenQ-Frontend/issues/1032) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#37](https://github.com/OpenQDev/OpenQ-API/pull/37) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-6. 💪 Opened PR [#1034](https://github.com/OpenQDev/OpenQ-Frontend/pull/1034) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Opened issue [#1032](https://github.com/OpenQDev/OpenQ-Frontend/issues/1032) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#1040](https://github.com/OpenQDev/OpenQ-Frontend/pull/1040) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#1038](https://github.com/OpenQDev/OpenQ-Frontend/pull/1038) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🎉 Merged PR [#1039](https://github.com/OpenQDev/OpenQ-Frontend/pull/1039) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🗣 Commented on [#37](https://github.com/OpenQDev/OpenQ-API/issues/37) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+5. 💪 Opened PR [#1038](https://github.com/OpenQDev/OpenQ-Frontend/pull/1038) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🎉 Merged PR [#1037](https://github.com/OpenQDev/OpenQ-Frontend/pull/1037) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#1032](https://github.com/OpenQDev/OpenQ-Frontend/issues/1032) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
