@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1057](https://github.com/OpenQDev/OpenQ-Frontend/pull/1057) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#39](https://github.com/OpenQDev/OpenQ-API/pull/39) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-3. 💪 Opened PR [#12](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask/pull/12) in [OpenQDev/OpenQ-OZ-Claim-Autotask](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask)
-4. 💪 Opened PR [#10](https://github.com/OpenQDev/OpenQ-Graph/pull/10) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-5. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Graph/pull/9) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-6. ❗️ Opened issue [#747](https://github.com/OpenQDev/OpenQ-TestRepo/issues/747) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 💪 Opened PR [#1046](https://github.com/OpenQDev/OpenQ-Frontend/pull/1046) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🗣 Commented on [#1062](https://github.com/OpenQDev/OpenQ-Frontend/issues/1062) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🗣 Commented on [#1062](https://github.com/OpenQDev/OpenQ-Frontend/issues/1062) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#1057](https://github.com/OpenQDev/OpenQ-Frontend/pull/1057) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#39](https://github.com/OpenQDev/OpenQ-API/pull/39) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+5. 💪 Opened PR [#12](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask/pull/12) in [OpenQDev/OpenQ-OZ-Claim-Autotask](https://github.com/OpenQDev/OpenQ-OZ-Claim-Autotask)
+6. 💪 Opened PR [#10](https://github.com/OpenQDev/OpenQ-Graph/pull/10) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
+7. 💪 Opened PR [#9](https://github.com/OpenQDev/OpenQ-Graph/pull/9) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
 <!--END_SECTION:activity-->
