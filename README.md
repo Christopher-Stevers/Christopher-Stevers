@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/OpenQDev/OpenQ-API/pull/63) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-2. 💪 Opened PR [#1121](https://github.com/OpenQDev/OpenQ-Frontend/pull/1121) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🗣 Commented on [#1104](https://github.com/OpenQDev/OpenQ-Frontend/issues/1104) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#1099](https://github.com/OpenQDev/OpenQ-Frontend/issues/1099) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#45](https://github.com/OpenQDev/OpenQ-API/pull/45) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-6. 💪 Opened PR [#10](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/10) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
-7. 💪 Opened PR [#1103](https://github.com/OpenQDev/OpenQ-Frontend/pull/1103) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#1126](https://github.com/OpenQDev/OpenQ-Frontend/pull/1126) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#63](https://github.com/OpenQDev/OpenQ-API/pull/63) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+3. 💪 Opened PR [#1121](https://github.com/OpenQDev/OpenQ-Frontend/pull/1121) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🗣 Commented on [#1104](https://github.com/OpenQDev/OpenQ-Frontend/issues/1104) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🗣 Commented on [#1099](https://github.com/OpenQDev/OpenQ-Frontend/issues/1099) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#45](https://github.com/OpenQDev/OpenQ-API/pull/45) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+7. 💪 Opened PR [#10](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server/pull/10) in [OpenQDev/OpenQ-Github-OAuth-Server](https://github.com/OpenQDev/OpenQ-Github-OAuth-Server)
 <!--END_SECTION:activity-->
