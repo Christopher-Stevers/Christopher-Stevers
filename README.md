@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/29) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-2. ❗️ Closed issue [#1137](https://github.com/OpenQDev/OpenQ-Frontend/issues/1137) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Closed issue [#1093](https://github.com/OpenQDev/OpenQ-Frontend/issues/1093) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Opened issue [#1137](https://github.com/OpenQDev/OpenQ-Frontend/issues/1137) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🎉 Merged PR [#1134](https://github.com/OpenQDev/OpenQ-Frontend/pull/1134) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#792](https://github.com/OpenQDev/OpenQ-TestRepo/issues/792) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 🎉 Merged PR [#793](https://github.com/OpenQDev/OpenQ-TestRepo/pull/793) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 🎉 Merged PR [#84](https://github.com/OpenQDev/OpenQ-API/pull/84) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+2. 🎉 Merged PR [#86](https://github.com/OpenQDev/OpenQ-API/pull/86) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+3. 💪 Opened PR [#29](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/29) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+4. ❗️ Closed issue [#1137](https://github.com/OpenQDev/OpenQ-Frontend/issues/1137) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#1093](https://github.com/OpenQDev/OpenQ-Frontend/issues/1093) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Opened issue [#1137](https://github.com/OpenQDev/OpenQ-Frontend/issues/1137) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🎉 Merged PR [#1134](https://github.com/OpenQDev/OpenQ-Frontend/pull/1134) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
