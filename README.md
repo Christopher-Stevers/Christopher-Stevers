@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#797](https://github.com/OpenQDev/OpenQ-TestRepo/issues/797) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. ❗️ Opened issue [#796](https://github.com/OpenQDev/OpenQ-TestRepo/issues/796) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. ❗️ Closed issue [#794](https://github.com/OpenQDev/OpenQ-TestRepo/issues/794) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 🎉 Merged PR [#795](https://github.com/OpenQDev/OpenQ-TestRepo/pull/795) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 💪 Opened PR [#795](https://github.com/OpenQDev/OpenQ-TestRepo/pull/795) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. ❗️ Opened issue [#794](https://github.com/OpenQDev/OpenQ-TestRepo/issues/794) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 🎉 Merged PR [#83](https://github.com/OpenQDev/OpenQ-API/pull/83) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+1. 🎉 Merged PR [#77](https://github.com/OpenQDev/OpenQ-API/pull/77) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+2. 🎉 Merged PR [#81](https://github.com/OpenQDev/OpenQ-API/pull/81) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+3. 🎉 Merged PR [#78](https://github.com/OpenQDev/OpenQ-API/pull/78) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+4. 🎉 Merged PR [#76](https://github.com/OpenQDev/OpenQ-API/pull/76) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+5. 🎉 Merged PR [#79](https://github.com/OpenQDev/OpenQ-API/pull/79) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+6. 🎉 Merged PR [#82](https://github.com/OpenQDev/OpenQ-API/pull/82) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+7. 🎉 Merged PR [#91](https://github.com/OpenQDev/OpenQ-API/pull/91) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
 <!--END_SECTION:activity-->
