@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/OpenQDev/OpenQ-API/pull/90) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-2. 🗣 Commented on [#89](https://github.com/OpenQDev/OpenQ-API/issues/89) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-3. ❗️ Opened issue [#89](https://github.com/OpenQDev/OpenQ-API/issues/89) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-4. 🎉 Merged PR [#84](https://github.com/OpenQDev/OpenQ-API/pull/84) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-5. 🎉 Merged PR [#86](https://github.com/OpenQDev/OpenQ-API/pull/86) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-6. 💪 Opened PR [#29](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/29) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-7. ❗️ Closed issue [#1137](https://github.com/OpenQDev/OpenQ-Frontend/issues/1137) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❌ Closed PR [#38](https://github.com/alo9507/MERN-GraphQL-Fullstack-Scaffold/pull/38) in [alo9507/MERN-GraphQL-Fullstack-Scaffold](https://github.com/alo9507/MERN-GraphQL-Fullstack-Scaffold)
+2. 💪 Opened PR [#38](https://github.com/alo9507/MERN-GraphQL-Fullstack-Scaffold/pull/38) in [alo9507/MERN-GraphQL-Fullstack-Scaffold](https://github.com/alo9507/MERN-GraphQL-Fullstack-Scaffold)
+3. 💪 Opened PR [#90](https://github.com/OpenQDev/OpenQ-API/pull/90) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+4. 🗣 Commented on [#89](https://github.com/OpenQDev/OpenQ-API/issues/89) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+5. ❗️ Opened issue [#89](https://github.com/OpenQDev/OpenQ-API/issues/89) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+6. 🎉 Merged PR [#84](https://github.com/OpenQDev/OpenQ-API/pull/84) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+7. 🎉 Merged PR [#86](https://github.com/OpenQDev/OpenQ-API/pull/86) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
 <!--END_SECTION:activity-->
