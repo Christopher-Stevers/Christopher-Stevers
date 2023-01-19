@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1213](https://github.com/OpenQDev/OpenQ-Frontend/issues/1213) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#1214](https://github.com/OpenQDev/OpenQ-Frontend/pull/1214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Opened issue [#832](https://github.com/OpenQDev/OpenQ-TestRepo/issues/832) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 💪 Opened PR [#99](https://github.com/OpenQDev/OpenQ-API/pull/99) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
-5. 💪 Opened PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Opened issue [#84](https://github.com/ndom91/react-timezone-select/issues/84) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-7. ❌ Closed PR [#1180](https://github.com/OpenQDev/OpenQ-Frontend/pull/1180) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Opened issue [#833](https://github.com/OpenQDev/OpenQ-TestRepo/issues/833) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+2. 🗣 Commented on [#1213](https://github.com/OpenQDev/OpenQ-Frontend/issues/1213) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#1214](https://github.com/OpenQDev/OpenQ-Frontend/pull/1214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Opened issue [#832](https://github.com/OpenQDev/OpenQ-TestRepo/issues/832) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. 💪 Opened PR [#99](https://github.com/OpenQDev/OpenQ-API/pull/99) in [OpenQDev/OpenQ-API](https://github.com/OpenQDev/OpenQ-API)
+6. 💪 Opened PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Opened issue [#84](https://github.com/ndom91/react-timezone-select/issues/84) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
