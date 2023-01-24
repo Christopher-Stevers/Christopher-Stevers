@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1227](https://github.com/OpenQDev/OpenQ-Frontend/issues/1227) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#1218](https://github.com/OpenQDev/OpenQ-Frontend/pull/1218) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Opened issue [#833](https://github.com/OpenQDev/OpenQ-TestRepo/issues/833) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. 🗣 Commented on [#1213](https://github.com/OpenQDev/OpenQ-Frontend/issues/1213) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#1214](https://github.com/OpenQDev/OpenQ-Frontend/pull/1214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Opened issue [#832](https://github.com/OpenQDev/OpenQ-TestRepo/issues/832) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 💪 Opened PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🗣 Commented on [#1227](https://github.com/OpenQDev/OpenQ-Frontend/issues/1227) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#1218](https://github.com/OpenQDev/OpenQ-Frontend/pull/1218) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Opened issue [#833](https://github.com/OpenQDev/OpenQ-TestRepo/issues/833) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. 🗣 Commented on [#1213](https://github.com/OpenQDev/OpenQ-Frontend/issues/1213) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#1214](https://github.com/OpenQDev/OpenQ-Frontend/pull/1214) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Opened issue [#832](https://github.com/OpenQDev/OpenQ-TestRepo/issues/832) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
