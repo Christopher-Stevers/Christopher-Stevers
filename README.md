@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1420](https://github.com/OpenQDev/OpenQ-Frontend/issues/1420) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Opened issue [#887](https://github.com/wesbos/Syntax/issues/887) in [wesbos/Syntax](https://github.com/wesbos/Syntax)
-3. 💪 Opened PR [#1415](https://github.com/OpenQDev/OpenQ-Frontend/pull/1415) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#1414](https://github.com/OpenQDev/OpenQ-Frontend/pull/1414) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🗣 Commented on [#1411](https://github.com/OpenQDev/OpenQ-Frontend/issues/1411) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#1403](https://github.com/OpenQDev/OpenQ-Frontend/pull/1403) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#1396](https://github.com/OpenQDev/OpenQ-Frontend/issues/1396) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#1421](https://github.com/OpenQDev/OpenQ-Frontend/pull/1421) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Opened issue [#1420](https://github.com/OpenQDev/OpenQ-Frontend/issues/1420) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Opened issue [#887](https://github.com/wesbos/Syntax/issues/887) in [wesbos/Syntax](https://github.com/wesbos/Syntax)
+4. 💪 Opened PR [#1415](https://github.com/OpenQDev/OpenQ-Frontend/pull/1415) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 💪 Opened PR [#1414](https://github.com/OpenQDev/OpenQ-Frontend/pull/1414) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🗣 Commented on [#1411](https://github.com/OpenQDev/OpenQ-Frontend/issues/1411) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#1403](https://github.com/OpenQDev/OpenQ-Frontend/pull/1403) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
