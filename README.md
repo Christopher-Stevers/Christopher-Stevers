@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1468](https://github.com/OpenQDev/OpenQ-Frontend/pull/1468) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 💪 Opened PR [#1468](https://github.com/OpenQDev/OpenQ-Frontend/pull/1468) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🎉 Merged PR [#1467](https://github.com/OpenQDev/OpenQ-Frontend/pull/1467) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#1464](https://github.com/OpenQDev/OpenQ-Frontend/issues/1464) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🎉 Merged PR [#1466](https://github.com/OpenQDev/OpenQ-Frontend/pull/1466) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🎉 Merged PR [#39](https://github.com/OpenQDev/OpenQ-Fullstack/pull/39) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
-7. 💪 Opened PR [#39](https://github.com/OpenQDev/OpenQ-Fullstack/pull/39) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
+1. 💪 Opened PR [#1475](https://github.com/OpenQDev/OpenQ-Frontend/pull/1475) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#1468](https://github.com/OpenQDev/OpenQ-Frontend/pull/1468) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#1468](https://github.com/OpenQDev/OpenQ-Frontend/pull/1468) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🎉 Merged PR [#1467](https://github.com/OpenQDev/OpenQ-Frontend/pull/1467) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#1464](https://github.com/OpenQDev/OpenQ-Frontend/issues/1464) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🎉 Merged PR [#1466](https://github.com/OpenQDev/OpenQ-Frontend/pull/1466) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🎉 Merged PR [#39](https://github.com/OpenQDev/OpenQ-Fullstack/pull/39) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
 <!--END_SECTION:activity-->
