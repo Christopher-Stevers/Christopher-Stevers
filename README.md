@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1496](https://github.com/OpenQDev/OpenQ-Frontend/issues/1496) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. ❗️ Closed issue [#1493](https://github.com/OpenQDev/OpenQ-Frontend/issues/1493) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. ❗️ Closed issue [#1483](https://github.com/OpenQDev/OpenQ-Frontend/issues/1483) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#1474](https://github.com/OpenQDev/OpenQ-Frontend/issues/1474) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Closed issue [#1470](https://github.com/OpenQDev/OpenQ-Frontend/issues/1470) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Closed issue [#1450](https://github.com/OpenQDev/OpenQ-Frontend/issues/1450) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#1508](https://github.com/OpenQDev/OpenQ-Frontend/pull/1508) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#1364](https://github.com/OpenQDev/OpenQ-Frontend/issues/1364) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. ❗️ Closed issue [#1439](https://github.com/OpenQDev/OpenQ-Frontend/issues/1439) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. ❗️ Closed issue [#1438](https://github.com/OpenQDev/OpenQ-Frontend/issues/1438) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. ❗️ Closed issue [#1436](https://github.com/OpenQDev/OpenQ-Frontend/issues/1436) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Closed issue [#1496](https://github.com/OpenQDev/OpenQ-Frontend/issues/1496) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Closed issue [#1493](https://github.com/OpenQDev/OpenQ-Frontend/issues/1493) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#1483](https://github.com/OpenQDev/OpenQ-Frontend/issues/1483) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
