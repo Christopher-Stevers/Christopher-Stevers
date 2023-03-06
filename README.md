@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#940](https://github.com/OpenQDev/OpenQ-TestRepo/pull/940) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. ❗️ Opened issue [#939](https://github.com/OpenQDev/OpenQ-TestRepo/issues/939) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. 💪 Opened PR [#938](https://github.com/OpenQDev/OpenQ-TestRepo/pull/938) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. ❗️ Opened issue [#937](https://github.com/OpenQDev/OpenQ-TestRepo/issues/937) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. 💪 Opened PR [#936](https://github.com/OpenQDev/OpenQ-TestRepo/pull/936) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. ❗️ Opened issue [#935](https://github.com/OpenQDev/OpenQ-TestRepo/issues/935) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Closed issue [#1517](https://github.com/OpenQDev/OpenQ-Frontend/issues/1517) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🗣 Commented on [#772](https://github.com/Uniswap/web3-react/issues/772) in [Uniswap/web3-react](https://github.com/Uniswap/web3-react)
+2. 💪 Opened PR [#940](https://github.com/OpenQDev/OpenQ-TestRepo/pull/940) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+3. ❗️ Opened issue [#939](https://github.com/OpenQDev/OpenQ-TestRepo/issues/939) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+4. 💪 Opened PR [#938](https://github.com/OpenQDev/OpenQ-TestRepo/pull/938) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. ❗️ Opened issue [#937](https://github.com/OpenQDev/OpenQ-TestRepo/issues/937) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. 💪 Opened PR [#936](https://github.com/OpenQDev/OpenQ-TestRepo/pull/936) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. ❗️ Opened issue [#935](https://github.com/OpenQDev/OpenQ-TestRepo/issues/935) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
