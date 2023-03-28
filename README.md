@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/40) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-2. 💪 Opened PR [#47](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/47) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-3. 🗣 Commented on [#1721](https://github.com/OpenQDev/OpenQ-Frontend/issues/1721) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🎉 Merged PR [#1708](https://github.com/OpenQDev/OpenQ-Frontend/pull/1708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#1708](https://github.com/OpenQDev/OpenQ-Frontend/pull/1708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Opened issue [#1024](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1024) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. 💪 Opened PR [#1023](https://github.com/OpenQDev/OpenQ-TestRepo/pull/1023) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 🎉 Merged PR [#40](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/40) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+2. 🎉 Merged PR [#47](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/47) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+3. 💪 Opened PR [#40](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/40) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+4. 💪 Opened PR [#47](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/47) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+5. 🗣 Commented on [#1721](https://github.com/OpenQDev/OpenQ-Frontend/issues/1721) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🎉 Merged PR [#1708](https://github.com/OpenQDev/OpenQ-Frontend/pull/1708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#1708](https://github.com/OpenQDev/OpenQ-Frontend/pull/1708) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
