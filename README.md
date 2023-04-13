@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
+1. 🗣 Commented on [#370](https://github.com/Synthetixio/synpress/issues/370) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
 2. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
-3. 🗣 Commented on [#3143](https://github.com/vitest-dev/vitest/issues/3143) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-4. ❗️ Opened issue [#1796](https://github.com/OpenQDev/OpenQ-Frontend/issues/1796) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. ❗️ Opened issue [#1795](https://github.com/OpenQDev/OpenQ-Frontend/issues/1795) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#1794](https://github.com/OpenQDev/OpenQ-Frontend/pull/1794) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#1788](https://github.com/OpenQDev/OpenQ-Frontend/issues/1788) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
+4. 🗣 Commented on [#3143](https://github.com/vitest-dev/vitest/issues/3143) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+5. ❗️ Opened issue [#1796](https://github.com/OpenQDev/OpenQ-Frontend/issues/1796) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. ❗️ Opened issue [#1795](https://github.com/OpenQDev/OpenQ-Frontend/issues/1795) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 💪 Opened PR [#1794](https://github.com/OpenQDev/OpenQ-Frontend/pull/1794) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
