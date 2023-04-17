@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1802](https://github.com/OpenQDev/OpenQ-Frontend/pull/1802) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🗣 Commented on [#1800](https://github.com/OpenQDev/OpenQ-Frontend/issues/1800) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#23](https://github.com/OpenQDev/OpenQ-Graph/pull/23) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-4. 🗣 Commented on [#370](https://github.com/Synthetixio/synpress/issues/370) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
-5. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
+1. 💪 Opened PR [#43](https://github.com/OpenQDev/OpenQ-Fullstack/pull/43) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
+2. 💪 Opened PR [#1802](https://github.com/OpenQDev/OpenQ-Frontend/pull/1802) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🗣 Commented on [#1800](https://github.com/OpenQDev/OpenQ-Frontend/issues/1800) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#23](https://github.com/OpenQDev/OpenQ-Graph/pull/23) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
+5. 🗣 Commented on [#370](https://github.com/Synthetixio/synpress/issues/370) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
 6. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
-7. 🗣 Commented on [#3143](https://github.com/vitest-dev/vitest/issues/3143) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+7. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
 <!--END_SECTION:activity-->
