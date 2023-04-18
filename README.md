@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1077](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1077) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. 💪 Opened PR [#43](https://github.com/OpenQDev/OpenQ-Fullstack/pull/43) in [OpenQDev/OpenQ-Fullstack](https://github.com/OpenQDev/OpenQ-Fullstack)
-3. 💪 Opened PR [#1802](https://github.com/OpenQDev/OpenQ-Frontend/pull/1802) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#1800](https://github.com/OpenQDev/OpenQ-Frontend/issues/1800) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#23](https://github.com/OpenQDev/OpenQ-Graph/pull/23) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-6. 🗣 Commented on [#370](https://github.com/Synthetixio/synpress/issues/370) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
-7. 🗣 Commented on [#414](https://github.com/Synthetixio/synpress/issues/414) in [Synthetixio/synpress](https://github.com/Synthetixio/synpress)
+1. 🎉 Merged PR [#139](https://github.com/OpenQDev/OpenQ-Contracts/pull/139) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
+2. 💪 Opened PR [#139](https://github.com/OpenQDev/OpenQ-Contracts/pull/139) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
+3. 🎉 Merged PR [#1820](https://github.com/OpenQDev/OpenQ-Frontend/pull/1820) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#1820](https://github.com/OpenQDev/OpenQ-Frontend/pull/1820) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🎉 Merged PR [#1819](https://github.com/OpenQDev/OpenQ-Frontend/pull/1819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#1819](https://github.com/OpenQDev/OpenQ-Frontend/pull/1819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🎉 Merged PR [#49](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/49) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
 <!--END_SECTION:activity-->
