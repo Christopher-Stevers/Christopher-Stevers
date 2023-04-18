@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/OpenQDev/OpenQ-Contracts/pull/139) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
-2. 💪 Opened PR [#139](https://github.com/OpenQDev/OpenQ-Contracts/pull/139) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
-3. 🎉 Merged PR [#1820](https://github.com/OpenQDev/OpenQ-Frontend/pull/1820) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 💪 Opened PR [#1820](https://github.com/OpenQDev/OpenQ-Frontend/pull/1820) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🎉 Merged PR [#1819](https://github.com/OpenQDev/OpenQ-Frontend/pull/1819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 💪 Opened PR [#1819](https://github.com/OpenQDev/OpenQ-Frontend/pull/1819) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🎉 Merged PR [#49](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/49) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+1. 🎉 Merged PR [#45](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/45) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+2. 💪 Opened PR [#45](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/45) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+3. 🎉 Merged PR [#44](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/44) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+4. 💪 Opened PR [#44](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/44) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+5. 🎉 Merged PR [#140](https://github.com/OpenQDev/OpenQ-Contracts/pull/140) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
+6. 💪 Opened PR [#140](https://github.com/OpenQDev/OpenQ-Contracts/pull/140) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
+7. 🎉 Merged PR [#139](https://github.com/OpenQDev/OpenQ-Contracts/pull/139) in [OpenQDev/OpenQ-Contracts](https://github.com/OpenQDev/OpenQ-Contracts)
 <!--END_SECTION:activity-->
