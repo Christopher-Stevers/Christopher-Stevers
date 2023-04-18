@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/OpenQDev/OpenQ-Graph/pull/23) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-2. 🎉 Merged PR [#25](https://github.com/OpenQDev/OpenQ-Graph/pull/25) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-3. 💪 Opened PR [#25](https://github.com/OpenQDev/OpenQ-Graph/pull/25) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-4. 🎉 Merged PR [#24](https://github.com/OpenQDev/OpenQ-Graph/pull/24) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-5. 💪 Opened PR [#24](https://github.com/OpenQDev/OpenQ-Graph/pull/24) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
-6. 🎉 Merged PR [#22](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/22) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
-7. 💪 Opened PR [#22](https://github.com/OpenQDev/OpenQ-Event-Listener/pull/22) in [OpenQDev/OpenQ-Event-Listener](https://github.com/OpenQDev/OpenQ-Event-Listener)
+1. ❌ Closed PR [#1821](https://github.com/OpenQDev/OpenQ-Frontend/pull/1821) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#1821](https://github.com/OpenQDev/OpenQ-Frontend/pull/1821) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🎉 Merged PR [#23](https://github.com/OpenQDev/OpenQ-Graph/pull/23) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
+4. 🎉 Merged PR [#25](https://github.com/OpenQDev/OpenQ-Graph/pull/25) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
+5. 💪 Opened PR [#25](https://github.com/OpenQDev/OpenQ-Graph/pull/25) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
+6. 🎉 Merged PR [#24](https://github.com/OpenQDev/OpenQ-Graph/pull/24) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
+7. 💪 Opened PR [#24](https://github.com/OpenQDev/OpenQ-Graph/pull/24) in [OpenQDev/OpenQ-Graph](https://github.com/OpenQDev/OpenQ-Graph)
 <!--END_SECTION:activity-->
