@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/45) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-2. 💪 Opened PR [#45](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/45) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-3. 🎉 Merged PR [#44](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/44) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-4. 💪 Opened PR [#44](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/44) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
-5. ❗️ Closed issue [#1071](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1071) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. ❌ Closed PR [#1821](https://github.com/OpenQDev/OpenQ-Frontend/pull/1821) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 💪 Opened PR [#1821](https://github.com/OpenQDev/OpenQ-Frontend/pull/1821) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗️ Closed issue [#1824](https://github.com/OpenQDev/OpenQ-Frontend/issues/1824) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#1825](https://github.com/OpenQDev/OpenQ-Frontend/pull/1825) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 💪 Opened PR [#1825](https://github.com/OpenQDev/OpenQ-Frontend/pull/1825) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🎉 Merged PR [#45](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/45) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+5. 💪 Opened PR [#45](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/45) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+6. 🎉 Merged PR [#44](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/44) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+7. 💪 Opened PR [#44](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/44) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
 <!--END_SECTION:activity-->
