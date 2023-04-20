@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1828](https://github.com/OpenQDev/OpenQ-Frontend/pull/1828) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🎉 Merged PR [#1827](https://github.com/OpenQDev/OpenQ-Frontend/pull/1827) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 💪 Opened PR [#1827](https://github.com/OpenQDev/OpenQ-Frontend/pull/1827) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Opened issue [#1083](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1083) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-5. ❗️ Opened issue [#1082](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1082) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-6. ❗️ Closed issue [#1073](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1073) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-7. ❗️ Closed issue [#1076](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1076) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+1. 🎉 Merged PR [#1828](https://github.com/OpenQDev/OpenQ-Frontend/pull/1828) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#1828](https://github.com/OpenQDev/OpenQ-Frontend/pull/1828) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🎉 Merged PR [#1827](https://github.com/OpenQDev/OpenQ-Frontend/pull/1827) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 💪 Opened PR [#1827](https://github.com/OpenQDev/OpenQ-Frontend/pull/1827) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. ❗️ Opened issue [#1083](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1083) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. ❗️ Opened issue [#1082](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1082) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+7. ❗️ Closed issue [#1073](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1073) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
 <!--END_SECTION:activity-->
