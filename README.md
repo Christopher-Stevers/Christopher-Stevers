@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1089](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1089) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-2. ❗️ Opened issue [#1088](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1088) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-3. ❗️ Closed issue [#1837](https://github.com/OpenQDev/OpenQ-Frontend/issues/1837) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. ❗️ Closed issue [#1840](https://github.com/OpenQDev/OpenQ-Frontend/issues/1840) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🎉 Merged PR [#1838](https://github.com/OpenQDev/OpenQ-Frontend/pull/1838) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. ❗️ Opened issue [#1839](https://github.com/OpenQDev/OpenQ-Frontend/issues/1839) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. ❗️ Closed issue [#1823](https://github.com/OpenQDev/OpenQ-Frontend/issues/1823) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 💪 Opened PR [#1848](https://github.com/OpenQDev/OpenQ-Frontend/pull/1848) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 💪 Opened PR [#46](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask/pull/46) in [OpenQDev/OpenQ-Bounty-Actions-Autotask](https://github.com/OpenQDev/OpenQ-Bounty-Actions-Autotask)
+3. 💪 Opened PR [#47](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job/pull/47) in [OpenQDev/OpenQ-Token-Price-Cron-Job](https://github.com/OpenQDev/OpenQ-Token-Price-Cron-Job)
+4. ❗️ Opened issue [#1089](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1089) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. ❗️ Opened issue [#1088](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1088) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+6. ❗️ Closed issue [#1837](https://github.com/OpenQDev/OpenQ-Frontend/issues/1837) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. ❗️ Closed issue [#1840](https://github.com/OpenQDev/OpenQ-Frontend/issues/1840) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
