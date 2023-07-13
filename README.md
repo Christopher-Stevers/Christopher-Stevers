@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/1) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
 2. 🔒 Closed issue [#1855](https://github.com/OpenQDev/OpenQ-Frontend/issues/1855) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🗣 Commented on [#1855](https://github.com/OpenQDev/OpenQ-Frontend/issues/1855) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🗣 Commented on [#1868](https://github.com/OpenQDev/OpenQ-Frontend/issues/1868) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🗣 Commented on [#1855](https://github.com/OpenQDev/OpenQ-Frontend/issues/1855#issuecomment-1535307326) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🗣 Commented on [#1868](https://github.com/OpenQDev/OpenQ-Frontend/issues/1868#issuecomment-1535306159) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 5. 🔒 Closed issue [#1869](https://github.com/OpenQDev/OpenQ-Frontend/issues/1869) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 6. 🎉 Merged PR [#1872](https://github.com/OpenQDev/OpenQ-Frontend/pull/1872) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 7. 💪 Opened PR [#1872](https://github.com/OpenQDev/OpenQ-Frontend/pull/1872) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
