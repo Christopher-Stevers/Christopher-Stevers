@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/54) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-2. 💪 Opened PR [#54](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/54) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
-3. ❗ Opened issue [#1114](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1114) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
-4. ❗ Opened issue [#1900](https://github.com/OpenQDev/OpenQ-Frontend/issues/1900) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/1) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
-6. 🔒 Closed issue [#1869](https://github.com/OpenQDev/OpenQ-Frontend/issues/1869) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🔒 Closed issue [#1899](https://github.com/OpenQDev/OpenQ-Frontend/issues/1899) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+2. 🎉 Merged PR [#54](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/54) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+3. 💪 Opened PR [#54](https://github.com/OpenQDev/OpenQ-CoinAPI/pull/54) in [OpenQDev/OpenQ-CoinAPI](https://github.com/OpenQDev/OpenQ-CoinAPI)
+4. ❗ Opened issue [#1114](https://github.com/OpenQDev/OpenQ-TestRepo/issues/1114) in [OpenQDev/OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo)
+5. ❗ Opened issue [#1900](https://github.com/OpenQDev/OpenQ-Frontend/issues/1900) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 💪 Opened PR [#1](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/1) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
 7. 🎉 Merged PR [#1872](https://github.com/OpenQDev/OpenQ-Frontend/pull/1872) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
