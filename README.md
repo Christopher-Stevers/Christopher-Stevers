@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-2. 🎉 Merged PR [#1695](https://github.com/OpenQDev/OpenQ-Frontend/pull/1695) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-3. 🔒 Closed issue [#1901](https://github.com/OpenQDev/OpenQ-Frontend/issues/1901) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-4. 🔒 Closed issue [#1900](https://github.com/OpenQDev/OpenQ-Frontend/issues/1900) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-5. 🗣 Commented on [#648](https://github.com/zapier/zapier-platform/issues/648#issuecomment-1690070282) in [zapier/zapier-platform](https://github.com/zapier/zapier-platform)
-6. ❗ Opened issue [#2](https://github.com/Christopher-Stevers/St-Isidore-Ranch/issues/2) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
-7. 🔒 Closed issue [#1899](https://github.com/OpenQDev/OpenQ-Frontend/issues/1899) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. ❗ Opened issue [#1](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/1) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
+2. 🎉 Merged PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+3. 🎉 Merged PR [#1695](https://github.com/OpenQDev/OpenQ-Frontend/pull/1695) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+4. 🔒 Closed issue [#1901](https://github.com/OpenQDev/OpenQ-Frontend/issues/1901) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+5. 🔒 Closed issue [#1900](https://github.com/OpenQDev/OpenQ-Frontend/issues/1900) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+6. 🗣 Commented on [#648](https://github.com/zapier/zapier-platform/issues/648#issuecomment-1690070282) in [zapier/zapier-platform](https://github.com/zapier/zapier-platform)
+7. ❗ Opened issue [#2](https://github.com/Christopher-Stevers/St-Isidore-Ranch/issues/2) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
 <!--END_SECTION:activity-->
