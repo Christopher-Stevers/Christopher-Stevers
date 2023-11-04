@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
-2. ❗ Opened issue [#3](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/3) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
-3. ❗ Opened issue [#2](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/2) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
-4. ❗ Opened issue [#1](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/1) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
-5. 🎉 Merged PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-6. 🎉 Merged PR [#1695](https://github.com/OpenQDev/OpenQ-Frontend/pull/1695) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
-7. 🔒 Closed issue [#1901](https://github.com/OpenQDev/OpenQ-Frontend/issues/1901) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+1. 🎉 Merged PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
+2. 💪 Opened PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
+3. ❗ Opened issue [#3](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/3) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
+4. ❗ Opened issue [#2](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/2) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
+5. ❗ Opened issue [#1](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/1) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
+6. 🎉 Merged PR [#1190](https://github.com/OpenQDev/OpenQ-Frontend/pull/1190) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
+7. 🎉 Merged PR [#1695](https://github.com/OpenQDev/OpenQ-Frontend/pull/1695) in [OpenQDev/OpenQ-Frontend](https://github.com/OpenQDev/OpenQ-Frontend)
 <!--END_SECTION:activity-->
