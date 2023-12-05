@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/OpenQDev/GoGitguru/issues/10#issuecomment-1833076246) in [OpenQDev/GoGitguru](https://github.com/OpenQDev/GoGitguru)
-2. 💪 Opened PR [#15](https://github.com/OpenQDev/GoGitguru/pull/15) in [OpenQDev/GoGitguru](https://github.com/OpenQDev/GoGitguru)
-3. ❗ Opened issue [#198524](https://github.com/microsoft/vscode/issues/198524) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
-5. 💪 Opened PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
-6. ❗ Opened issue [#3](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/3) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
+1. 🗣 Commented on [#198524](https://github.com/microsoft/vscode/issues/198524#issuecomment-1841671778) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#10](https://github.com/OpenQDev/GoGitguru/issues/10#issuecomment-1833076246) in [OpenQDev/GoGitguru](https://github.com/OpenQDev/GoGitguru)
+3. 💪 Opened PR [#15](https://github.com/OpenQDev/GoGitguru/pull/15) in [OpenQDev/GoGitguru](https://github.com/OpenQDev/GoGitguru)
+4. ❗ Opened issue [#198524](https://github.com/microsoft/vscode/issues/198524) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
+6. 💪 Opened PR [#3](https://github.com/Christopher-Stevers/St-Isidore-Ranch/pull/3) in [Christopher-Stevers/St-Isidore-Ranch](https://github.com/Christopher-Stevers/St-Isidore-Ranch)
 7. ❗ Opened issue [#2](https://github.com/Christopher-Stevers/ETHDenver-2023/issues/2) in [Christopher-Stevers/ETHDenver-2023](https://github.com/Christopher-Stevers/ETHDenver-2023)
 <!--END_SECTION:activity-->
