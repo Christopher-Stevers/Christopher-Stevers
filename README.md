@@ -1,6 +1,6 @@
 ### Salve, Greetings 👋
 
-I'm Chris, a fullstack developer from Stratford (just outside Waterloo), Canada. I enjoy working for early stage startups, especially in the space of big data, crypto or AI. 
+I'm Chris, a fullstack developer from Stratford (just outside Waterloo), Canada. I enjoy working for early stage startups, especially in the space of data intensive applications, and AI 
 
 
 
